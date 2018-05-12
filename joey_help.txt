@@ -1,0 +1,2297 @@
+    1  cd
+    2  cd Desktop/
+    3  python ge
+    4  cd /Users/BiancaGonzalez/Desktop/RudeBoyBert/Final_Project/GetOldTweets-python-master/getpip.py
+    5  cd /Users/BiancaGonzalez/Desktop/RudeBoyBert/Final_Project/GetOldTweets-python-master/
+    6  python getpip.py 
+    7  sudo python getpip.py 
+    8  pip
+    9  clear
+   10  ls
+   11  pip install virtualenv
+   12  cd 
+   13  pip install virtualenv
+   14  sudo pip install virtualenv
+   15  clear
+   16  ls
+   17  cd Desktop
+   18  ls
+   19  cd tweepy-master/
+   20  ls
+   21  pip install -r requirements.txt
+   22  sudo chown -R $bgonzalez /Library/Python/2.7
+   23  pip install -r requirements.txt
+   24  sudo pip install requests
+   25  pip install -r requirements.txt
+   26  sudo python setup.py install
+   27  pip install -r requirements.txt
+   28  ls
+   29  cd test.py
+   30  cd test
+   31  cd test.py
+   32  ls 
+   33  python test.py
+   34  cd
+   35  cd Desktop/
+   36  ls
+   37  cd tweepy-master/
+   38  ls
+   39  python test.py
+   40  python test.py
+   41  python test.py
+   42  python test.py
+   43  python test.py
+   44  python searchTwit.py
+   45  cd
+   46  ls
+   47  cd Desktop/
+   48  cd TwitterSearch-master
+   49  ls
+   50  pip install -r requirements.txt
+   51  python searchTwit.py
+   52  python searchTwit.py
+   53  python searchTwit.py
+   54  python searchTwit.py
+   55  python searchTwit.py
+   56  python searchTwit.py
+   57  python searchTwit.py
+   58  cd
+   59  ls
+   60  cd Desktop/
+   61  ls
+   62  cd tweepy-master/
+   63  ls
+   64  python locationTest.py 
+   65  python locationTest.py 
+   66  python locationTest.py 
+   67  python locationTest.py 
+   68  ls
+   69  python locationTest.py
+   70  python locationTest.py
+   71  python locationTest.py
+   72  cd
+   73  ls
+   74  cd Desktop/
+   75  ls
+   76  cd tweepy-master/
+   77  ls
+   78  python locationTest.py
+   79  python locationTest.py
+   80  python locationTest.py
+   81  dc Desktop/RudeBoyBert/Final_Project/
+   82  ls
+   83  cd Desktop/
+   84  ls
+   85  cd tweepy-master/
+   86  ls
+   87  python locationTest.py 
+   88  python locationTest.py 
+   89  python locationTest.py 
+   90  python locationTest.py 
+   91  python locationTest.py 
+   92  python locationTest.py 
+   93  python locationTest.py 
+   94  python locationTest.py 
+   95  python locationTest.py 
+   96  python locationTest.py 
+   97  python locationTest.py 
+   98  python locationTest.py 
+   99  python locationTest.py 
+  100  cd
+  101  ls
+  102  cd Desktop/
+  103  ls
+  104  cd tweepy-master/
+  105  ls
+  106  python locationTest.py 
+  107  python locationTest.py 
+  108  python locationTest.py 
+  109  python locationTest.py 
+  110  python locationTest.py 
+  111  python locationTest.py 
+  112  python locationTest.py 
+  113  python locationTest.py 
+  114  cd Desktop/TwitterSearch-master
+  115  ls
+  116  cd ..
+  117  ls
+  118  cd tweepy-master/
+  119  ls
+  120  python locationTest.py
+  121  python locationTest.py
+  122  python locationTest.p
+  123  cd
+  124  ls
+  125  cd Desktop/RudeBoyBert/Final_Project/
+  126  ls
+  127  cd ..
+  128  ls
+  129  cd ..
+  130  ls
+  131  cd tweepy-master/
+  132  ls
+  133  python locationTest.py
+  134  python locationTest.py
+  135  git checkout -- mig_state.csv
+  136  git reset --hard
+  137  git reset HEAD~
+  138  git reset --HEAD
+  139  git reset --mixed
+  140  cd
+  141  ls
+  142  cd Desktop/RudeBoyBert/Final_Project/
+  143  ls
+  144  git filter-branch
+  145  cd Final_Project.Rproj 
+  146  Final_Project.Rproj
+  147  git biancaglez --name-status
+  148  git lola --name-status
+  149  git filter-branch --prune-empty -d /dev/shm/scratch 
+  150    --index-filter "git rm --cached -f --ignore-unmatch mig_state.csv" --tag-name-filter cat -- --all
+  151  git filter-branch --prune-empty -d /dev/shm/scratch   --index-filter "git rm --cached -f --ignore-unmatch oops.iso" \
+  152  git rm --cached mig_state.csv
+  153  cd
+  154  ls
+  155  cd Desktop/RudeBoyBert/Final_Project/
+  156  ls
+  157  git rm --cached mig_state.csv
+  158  git commit --amend -CHEAD
+  159  git push
+  160  cd
+  161  git rm --cached mig_state.csv
+  162  git commit --amend -CHEAD
+  163  git reset --hard @{u}
+  164  cd
+  165  ls
+  166  cd Desktop/RudeBoyBert/Final_Project/
+  167  git reset --hard @{u}
+  168  ld
+  169  ls
+  170  cd usr
+  171  cd local
+  172  cd git
+  173  brew install geos
+  174  brew install geos
+  175  brew unlink geos
+  176  brew install geos
+  177  brew install gdal
+  178  brew unlink gdal
+  179  brew install gdal
+  180  php -v
+  181  $ php -m
+  182  php -m
+  183  upload_max_filesize = 10M
+  184  memory_limit = 128M
+  185  php_value upload_max_filesize 10M
+  186   – grep -i php.ini
+  187  grep -i php.ini
+  188  php --ini
+  189  upload_max_filesize = 10M
+  190  php_value upload_max_filesize 10M
+  191  php -i | grep 'Configuration File'
+  192  cd /etc
+  193  ls
+  194  cd php.ini.default
+  195  nano php.ini
+  196  vi /usr/local/lib/php.ini
+  197  vi /usr/local/lib/php.ini
+  198  grep -i php.ini
+  199  php -i | grep 'Configuration File'
+  200  cd /etc
+  201  nano php.ini
+  202  cd /path/to/htaccess/file/
+  203  cd /path/to/htaccess/file/
+  204  defaults write com.apple.finder AppleShowAllFiles YES ; killall Finder
+  205  defaults write com.apple.finder AppleShowAllFiles -boolean true ; killall Finder
+  206  cd /
+  207  opne /
+  208  open /
+  209  defaults write com.apple.finder AppleShowAllFiles -boolean false ; killall Finder
+  210  grep -i php.ini
+  211  php -i | grep 'Configuration File'
+  212  cd /etc
+  213  ls
+  214  diskutil list
+  215  mdfind -name "Virtual Box"
+  216  sudo rm -rif /Users/BiancaGonzalez/Library/VirtualBox
+  217  cd
+  218  ls
+  219  mdfind -name "Virtual Box"
+  220  sudo rm -rif /Applications/VirtualBox.app
+  221  sudo rm -rif /Library/Python/2.6/site-packages/vboxapi/VirtualBox_constants.py
+  222  mdfind -name "Virtual Box"
+  223  sudo rm -rif /usr/bin/VirtualBox
+  224  sudo rm -rif /usr/local/bin/VirtualBox
+  225  mdfind -name "Virtual Box"
+  226  /Users/BiancaGonzalez/Desktop/RudeBoyBert/Final_Project/GetOldTweets-python-master/venv/bin/python ; exit;
+  227  cd
+  228  ls
+  229  cd
+  230  cd
+  231  ls
+  232  cd documents
+  233  ls
+  234  cd
+  235  ls
+  236  cd desktop
+  237  ls
+  238  cd SolarThesisWork/
+  239  ls
+  240  cd scrape_data_solar
+  241  ls
+  242  python scrape_solar.py
+  243  cd
+  244  ls
+  245  cd scrape_data_solar
+  246  cd
+  247  ls
+  248  cd Desktop/SolarThesisWork/
+  249  ls
+  250  cd scrape_data_solar/
+  251  ls
+  252  python scrape_solar.py
+  253  python scrape_solar.py
+  254  cd Desktop/SolarThesisWork/
+  255  ls
+  256  cd scrape_data_solar/
+  257  ls
+  258  python scrape_solar.py
+  259  cd
+  260  ls
+  261  cd Desktop/
+  262  ls
+  263  cd Phosphorous\ Thesis\ Work/
+  264  ls
+  265  python save_json.py
+  266  python save_json.py
+  267  python save_json.py
+  268  python save_json.py
+  269  python save_json.py
+  270  python save_json.py
+  271  python save_json.py
+  272  python save_json.py
+  273  python save_json.py
+  274  python save_json.py
+  275  ls
+  276  python geojson.py 
+  277  python geojson.py 
+  278  python geojson.py data_VT.json data_VT_geo.py
+  279  python geojson.py data_VT.json data_VT_geo.json
+  280  python geojson.py data_VT.json data_VT_geo.json
+  281  python geojson.py data_VT.json data_VT_geo.json
+  282  python save_json.py
+  283  python geojson.py data_VT.json data_VT_geo.json
+  284  python
+  285  python -V
+  286  pysal -V
+  287  Pysal -V
+  288  PySAL
+  289  PySAL -V
+  290  pip install -U pysal
+  291  PySAL
+  292  PySAL -V
+  293  PySAL -V
+  294  pip PySAL
+  295  sudo find / -iname *.app
+  296  python -m site
+  297  python -c "import site; print(site.getsitepackages())"
+  298  python -m site --user-site
+  299  pip install -U pysal
+  300  import numpy
+  301  import numpy
+  302  print numpy.__version__
+  303  python -c "import numpy"
+  304  python import scipy
+  305  python scipy
+  306  import scipy
+  307  python -c "import scipy"
+  308  python -c "import scipy; print(scipy.__version__)"
+  309  python -c "import PySAL"
+  310  python -c "import pysal"
+  311  sudo pip install numpy
+  312  sudo pip install scipy 
+  313  sudo easy_install pysal
+  314  easy_install pysal
+  315  ~/.qgis2/python/plugins
+  316  open .
+  317   $  sudo git clone https://github.com/danioxoli/HotSpotAnalysis_Plugin
+  318   $  sudo git clone https://github.com/danioxoli/HotSpotAnalysis_Plugin
+  319   sudo git clone https://github.com/danioxoli/HotSpotAnalysis_Plugin
+  320  cd ~/.qgis2/python/plugins
+  321  open . 
+  322  easy_install pysal
+  323  qgis --version
+  324  gdalinfo --version
+  325  python -c "import numpy"
+  326  python -c "import scipy; print(scipy.__version__)"
+  327  python -c "import numpy; print(numpy.__version__)"
+  328  sw_vers -productVersion 
+  329  import pysal
+  330  sudo easy_install pysal
+  331  sudo easy_install pysal
+  332  conda install anaconda-clean
+  333  anaconda-clean --yes
+  334  rm -rf ~/anaconda3 
+  335  rm -rf ~/.anaconda_backup/2017-10-26T092221
+  336  export PATH="/Users/BiancaGonzalez/anaconda/bin:$PATH"
+  337  sudo easy_install pysal
+  338  easy_intsall pysal
+  339  easy_install pysal
+  340  conda install anaconda-clean
+  341  anaconda-clean --yes
+  342  ~/.anaconda_backup/2017-10-26T092908
+  343  rm -rf ~/.anaconda_backup/2017-10-26T092908
+  344  rm -rf ~/anaconda2
+  345  easy-install pysal
+  346  easy_install pysal
+  347  sudo easy_install pysal
+  348  gdalinfo --version
+  349  mac --version
+  350  cd
+  351  ls
+  352  cd downloads
+  353  ls
+  354  cd FileGDB_API
+  355  ls
+  356  mv ~FileGDB_API /Library/Application Support/GDAL/1.10/Libraries
+  357  cd Library
+  358  mv ~FileGDB_API ~/Library/Application Support/GDAL/1.10/Libraries
+  359  cd 
+  360  ls
+  361  cd ~GDAL
+  362  ls
+  363  cd Applications/
+  364  ls
+  365  cd libraries
+  366  cd Library
+  367  cd Library
+  368  ls
+  369  brew install gdal
+  370  rbenv install 2.4.2
+  371  rbenv global 2.4.2
+  372  rbenv install 2.4.2
+  373  brew install rbenv ruby-build
+  374  rbenv install 2.4.2
+  375  ruby -v
+  376  rbenv global 2.4.2
+  377  ruby -v
+  378  uninstall QGIS
+  379  /Volumes/VirtualBox/VirtualBox_Uninstall.tool ; exit;
+  380  export PATH=$PATH:/path/to/dir
+  381  cd /usr/bin
+  382  sudo ln -s /path/to/binary binary-name
+  383  sudo ln -s /path/to/binary binary-name
+  384  sudo ln -s /path/to/binary binary-name
+  385  sudo ln -s /path/to/binary binary-name
+  386  sudo ln -s /path/to/binary binary-name
+  387  source ~/.profile 
+  388  or
+  389  source ~/.bashrc
+  390  source ~/.profile 
+  391  source ~/.bashrc
+  392  export VAULT_ADDR=https://vault-ha.faraday.io:8200/
+  393  vault auth -method=github token=$MY_GITHUB_TOKEN
+  394  vault read secret/test
+  395  export VAULT_ADDR=https://vault-ha.faraday.io:8200/
+  396  vault auth -method=github token=$MY_GITHUB_TOKEN
+  397  /Users/BiancaGonzalez/Desktop/Faraday/vault ; exit;
+  398  export PATH=$PATH:/path/to/dir
+  399  cd /usr/bin
+  400  source ~/.profile 
+  401  export VAULT_ADDR=https://vault-ha.faraday.io:8200/
+  402  export PATH=$PATH:/path/to/dir
+  403  cd /usr/bin
+  404  vault
+  405  cd Desktop
+  406  cd
+  407  cd Desktop/
+  408  ls
+  409  cd Faraday
+  410  ls
+  411  cd vault
+  412  mv vault /usr/local/bin/
+  413  vault
+  414  env | grep PATH
+  415  env
+  416  env | grep PATH
+  417  export VAULT_ADDR=https://vault-ha.faraday.io:8200/
+  418  vault auth -method=github token=$ 756b74be1bf870eda65f064655863273f7b559ae  
+  419  vault auth -method=github token=$756b74be1bf870eda65f064655863273f7b559ae  
+  420  vault read secret/test
+  421  export VAULT_ADDR=https://vault-ha.faraday.io:8200/
+  422  vault auth -method=github token=$756b74be1bf870eda65f064655863273f7b559ae
+  423  vault auth -method=github token=756b74be1bf870eda65f064655863273f7b559ae  
+  424  vault read secret/test
+  425  brew install git
+  426  git config --global user.email "bianca.glez94@gmail.com'
+  427  git config --global user.email "bianca.glez94@gmail.com"
+  428  brew install git
+  429  git config --global user.email bianca.glez94@gmail.com
+  430  git config --global user.name Bianca Gonzalez
+  431  ssh-keygen -t rsa -b 4096 -C bianca.glez94@gmail.com
+  432  "$(ssh-agent -s)"
+  433  $(ssh-agent -s)
+  434  (ssh-agent -s)
+  435  ssh-add -K ~/.ssh/id_rsa
+  436  ssh -T git@github.com
+  437  ssh -vT git@github.com
+  438  ssh -T GITHUB-USERNAME@github.cossh -T biancaglez@github.com
+  439  ssh -T biancaglez@github.com
+  440  ssh -T git@github.com
+  441  ssh-agent -s
+  442  ssh-add -l -E md5
+  443  ssh -vT git@github.com
+  444  ssh -T git@github.com
+  445  ssh-agent -s
+  446  eval "$(ssh-agent -s)"
+  447  ssh-add -l
+  448  ssh-add -l -E md5
+  449  ssh-keygen-t rsa
+  450  ssh-keygen
+  451  ssh-add ~/.ssh/id_rsa 
+  452  ssh -vT git@github.com
+  453  git@github.com:faradayio/humans.git
+  454  ssh -vT git@github.com:faradayio/humans.git
+  455  python py
+  456  py version
+  457  python -V
+  458  getconf LONG_BIT
+  459  md5 filename
+  460  shasum -a 256 filename.
+  461  cd
+  462  ls
+  463  cd Downloads
+  464  ls
+  465  cd
+  466  ;s
+  467  ls
+  468  cd ..
+  469  ls
+  470  cd ..
+  471  ls
+  472  cd Users/
+  473  ls
+  474  cd BiancaGonzalez/
+  475  ls
+  476  cd shiny
+  477  ls
+  478  env
+  479  env | grep PATH 
+  480  export USER="BiancaGonzalez"
+  481  cd
+  482  ls
+  483  cd hw0303.R 
+  484  ls
+  485  grep "csv" hw0303.R
+  486  grep -i "CSV" hw0303.R 
+  487  6+2
+  488  brew install ruby-build rbenv
+  489  brew install ruby-build rbenv openvpn 
+  490  brew list
+  491  rbenv install 2.4.2
+  492  which rbenv
+  493  vault read secret/test
+  494  vi ~/.bash_profile
+  495  vi ~/.bashrc
+  496  vi ~/.profile
+  497  ruby -v
+  498  vi ~/.bash_profile
+  499  gem list
+  500  exit
+  501  cat ~/.bash_profile 
+  502  vi ~/.bash_profile 
+  503  vault read secret/test
+  504  gem install --source https://Vdn9LZTsqVTiGyphUpXK@gem.fury.io/faraday/ fdyi
+  505  gem install --source https://1BGAT6-8zIyP3nDqCJjoF787qyU1SYjek@gem.fury.io/faraday/ fdyi
+  506  gem install --source https://1BGAT6-8zIyP3nDqCJjoF787qyU1SYjek@gem.fury.io/faraday/ fdyi --no-rdoc --no-ri
+  507  fdyi vpn connect
+  508  exit
+  509  ruby -v
+  510  tmate
+  511  fdyi vpn connect
+  512  /Users/BiancaGonzalez/Downloads/fdy-data ; exit;
+  513  curl https://sh.rustup.rs -sSf | sh
+  514  cd 
+  515  ls
+  516  cd Desktop/Faraday/
+  517  git clone git@github.com:faradayio/highscore.git
+  518  cd 
+  519  ls
+  520  cd Desktop/Faraday/
+  521  ls
+  522  cd highscore/
+  523  git config --global credential.https://github.com.helper     "$(pwd)/scripts/git-credential-vault"
+  524  cargo build --all
+  525  cd
+  526  ls
+  527  cd Desktop/Faraday/highscore/
+  528  ls
+  529  cargo build --all
+  530  ls target/debug/fdy-data
+  531  target/debug/fdy-data --version
+  532  cd crates/fdy-data
+  533  cargo install -f
+  534  fdy-data --help
+  535  cd 
+  536  ls
+  537  cd
+  538  ls
+  539  cd Desktop/Faraday/
+  540  ls
+  541  cd highscore/
+  542  ls
+  543  rm -r target
+  544  ls
+  545  git pull
+  546  ls
+  547  git checkout Cargo.lock
+  548  git pull
+  549  cd crates/fdy-data
+  550  python version
+  551  py version
+  552  python py version
+  553  py version
+  554  python -V
+  555  cd
+  556  ls 
+  557  cd Desktop/Faraday/
+  558  ls
+  559  cd Faraday/
+  560  ls
+  561  cd ..
+  562  ls 
+  563  ls
+  564  cd
+  565  ls
+  566  cd Desktop/Faraday/data-exploration/
+  567  ls
+  568  cd burrow/
+  569  ls
+  570  python test_script.py
+  571  cd
+  572  ls
+  573  cd Desktop/Faraday/Faraday/
+  574  ls
+  575  python test_script.py
+  576  pip install wheel
+  577  pip install wheel
+  578  pip install pandas
+  579  cd
+  580  ls
+  581  cd Desktop/Faraday/Faraday/
+  582  ls
+  583  python test_script.py 
+  584  conda install -c anaconda pandas 
+  585  anaconda install -c anaconda pandas 
+  586  pip install pandas
+  587  import pandas as pd
+  588  pip list
+  589  pip show pandas
+  590  pip show pandas
+  591  python -c "import pandas"
+  592  python -c "import numpy"
+  593  cd 
+  594  ls
+  595  cd Desktop/Faraday/
+  596  git clone https://github.com/biancaglez/pandas.git
+  597  cd pandas-biancaglez
+  598  cd pandas-biancagonzalez
+  599  cd pandas
+  600  ls
+  601  cd pandas
+  602  ls
+  603  cd ..
+  604  ls
+  605  cd pandas-biancaglez
+  606  cd ..
+  607  ls
+  608  cd pandas-biancaglez
+  609  git remote add upstream https://github.com/pandas-dev/pandas.git
+  610  cd
+  611  ls
+  612  cd Desktop/Faraday/
+  613  ls
+  614  cd pandas/
+  615  ls
+  616  conda env create -f ci/environment-dev.yaml
+  617  anaconda -Version
+  618  anaconda -v
+  619  export PATH=~/anaconda2/bin:$PATH
+  620  conda --version
+  621  export PATH=~/anaconda3/bin:$PATH
+  622  conda --version
+  623  export PATH=~/anaconda/bin:usr/local
+  624  conda --version
+  625  export PATH=~/anaconda/bin:~
+  626  conda --version
+  627  echo 
+  628  echo $SHELL
+  629  echo $PATH
+  630  export PATH=~/anaconda/bin:/Users/BiancaGonzalez/anaconda/bin:/Users/BiancaGonzalez
+  631  conda --version
+  632  export PATH=~/anaconda/bin:/Users/BiancaGonzalez/anaconda/bin:/Users/BiancaGonzalez
+  633  export PATH=~/anaconda/bin:/Users/BiancaGonzalez
+  634  conda --version
+  635  export PATH=~/anaconda3/bin:/Users/BiancaGonzalez
+  636  export PATH=~/anaconda3/bin/Users/BiancaGonzalez
+  637  conda --version
+  638  cd
+  639  ls
+  640  cd ~
+  641  ls
+  642  cd ~
+  643  ls -la
+  644  echo $PATH
+  645  which python
+  646  conda lista
+  647  bash Miniconda3-latest-MacOSX-x86_64.sh
+  648  Miniconda3-latest-MacOSX-x86_64.sh
+  649  bash Miniconda2-latest-MacOSX-x86_64.sh
+  650  bash /Users/BiancaGonzalez/Downloads/Miniconda2-latest-MacOSX-x86_64.sh
+  651  conda list
+  652  list
+  653  conda list
+  654  conda list
+  655  pip pandas
+  656  conda install pandas
+  657  conda pandas
+  658  conda list
+  659  cd
+  660  ls
+  661  cd Desktop/Faraday/
+  662  ls
+  663  cd data-exploration/
+  664  ls
+  665  cd..
+  666  ls
+  667  cd ..
+  668  ls
+  669  cd Faraday/
+  670  ls
+  671  python test_script.py
+  672  python --version
+  673  python test_script.py
+  674  python test_script.py
+  675  python test_script.py
+  676  python test_script.py
+  677  python test_script.py
+  678  python test_script.py
+  679  fdy yi
+  680  fdyi
+  681  fdyi psql production --root
+  682  fdyi psql production 
+  683  "/Applications/Postgres.app/Contents/Versions/10/bin/psql" -p5432 -d "BiancaGonzalez"
+  684  psql
+  685  \psql
+  686  psql -l
+  687  psql-l
+  688  psql -l
+  689  psql -L
+  690  psql -l
+  691  psql -l
+  692  psql -l
+  693  sudo mkdir -p /etc/paths.d && echo /Applications/Postgres.app/Contents/Versions/latest/bin | sudo tee /etc/paths.d/postgresapp
+  694  "/Applications/Postgres.app/Contents/Versions/10/bin/psql" -p5432 -d "BiancaGonzalez"
+  695  psql -l
+  696  psql -l
+  697  fdyi
+  698  fdyi psql staging
+  699  fdyi psql production --root -c "\\copy (SELECT * FROM households_fpd WHERE  county_id = '50001') TO 'test.csv' CSV HEADER
+  700  fdyi psql production --root -c "\\copy (SELECT * FROM households_fpd WHERE  county_id = '50001') TO 'test.csv' CSV HEADER"
+  701  fdyi psql production --root -c "\\copy (SELECT * FROM households_fpd WHERE  county_id = '50001') TO 'test.csv' CSV HEADER"
+  702  fdyi psql production --root -c "\\copy (SELECT * FROM households_fpd WHERE  county_id = '50001' LIMIT 5) TO 'test.csv' CSV HEADER"
+  703  cat test.csv
+  704  fdyi
+  705  fdyi psql staging
+  706  fdyi
+  707  psql -l
+  708  \dt
+  709  \q
+  710  fdyi psql staging
+  711  fdyi psql staging
+  712  fdyi psql staging 
+  713  fdyi psql staging
+  714  cargo install xsv
+  715  fdyi 
+  716  fdyi
+  717  fdyi psql staging
+  718  fdyi psql staging 
+  719  fdyi psql staging
+  720  fdyi
+  721  fdyi -l
+  722  fdyi psql staging
+  723  cd Desktop/Faraday/
+  724  ls
+  725  cd Faraday/
+  726  ls
+  727  mkdir PACU
+  728  ls
+  729  cd
+  730  ls
+  731  cd Desktop/Faraday/Faraday/
+  732  ls
+  733  mv PACU_analysis1.Rmd  Desktop/Faraday/Faraday/PACU
+  734  npm install censusapi2csv -g
+  735  /Users/BiancaGonzalez/Downloads/chromedriver ; exit;
+  736  git clone https://github.com/timgrossmann/InstaPy.git
+  737  cd InstaPy
+  738  pip install .
+  739  cd
+  740  ls
+  741  cd InstaPy/
+  742  ls
+  743  cd quickstart.py 
+  744  open ..
+  745  python quickstart.py
+  746  python quickstart.py
+  747  python quickstart.py
+  748  sudo nano /etc/paths
+  749  y
+  750  cd
+  751  ls
+  752  echo usr/local/Desktop/WebDriver
+  753  cd
+  754  ls
+  755  cd Desktop/SheFly/
+  756  ls
+  757  ls
+  758  python quickstart.py
+  759  cd
+  760  ls
+  761  cd ..
+  762  ls
+  763  cd BiancaGonzalez/
+  764  cd ~/InstaPy/
+  765  ls
+  766  python quickstart.py
+  767  cd
+  768  ls
+  769  cd ..
+  770  ls
+  771  BiancaGonzalez
+  772  cd BiancaGonzalez
+  773  ls
+  774  cd InstaPy/
+  775  ls
+  776  cd ..
+  777  ls
+  778  cd Desktop/
+  779  ls
+  780  cd 
+  781  ls
+  782  cd Downloads/
+  783  mv fdy-data /usr/local/bin/
+  784  fdy-data
+  785  cd
+  786  ls
+  787  cd Desktop/Faraday/Faraday/
+  788  ls
+  789  fdy-data 6b107493-d984-4080-b311-d743b2d2bbaa
+  790  fdy-data audience 6b107493-d984-4080-b311-d743b2d2bbaa > members.csv
+  791  fdy-data audience data 6b107493-d984-4080-b311-d743b2d2bbaa > members.csv
+  792  which fdy-data
+  793  rm $(which fdy-data)
+  794  fdy-data audience data 6b107493-d984-4080-b311-d743b2d2bbaa > members.csv
+  795  which fdy-data
+  796  otool -L $(which fdy-data)
+  797  file /usr/local/opt/postgresql/lib/libpq.5.dylib
+  798  fdy-data --version
+  799  brew 
+  800  brew list | grep post
+  801  brew install libpq
+  802  cd
+  803  ls
+  804  cd Downloads/
+  805  cd ..
+  806  cd Desktop/Faraday/
+  807  ls
+  808  cd data-exploration/
+  809  fdy-data audience data 6b107493-d984-4080-b311-d743b2d2bbaa > members.csv
+  810  file /usr/local/opt/postgresql/lib/libpq.5.dylib
+  811  fdy-data audience data 6b107493-d984-4080-b311-d743b2d2bbaa > members.csv
+  812  file /usr/local/opt/postgresql/lib/libpq.5.dylibe
+  813  file /usr/local/opt/postgresql/lib/libpq.5.dylib
+  814  brew uninstall libpq
+  815  brew install postgresql
+  816  cd Desktop/Faraday/
+  817  ls
+  818  cd Faraday/
+  819  fdy-data audience data 6b107493-d984-4080-b311-d743b2d2bbaa > members.csv
+  820  cd
+  821  cd Desktop/
+  822  ls
+  823  cd Faraday/Faraday/
+  824  ls
+  825  cd ..
+  826  cd 
+  827  ls
+  828  cd Desktop/Fara
+  829  cd Desktop/Faraday/
+  830  ls
+  831  cd data-exploration/
+  832  ls
+  833  open members.csv
+  834  cd
+  835  ls
+  836  cd Desktop/Faraday/
+  837  ls
+  838  cd data-exploration
+  839  ls
+  840  fdy-data campaign modeling-data --fields name=county_id,name=age,name=year_built 319ac125-eefd-4918-9107-2281435a1b68
+  841  fdy-data campaign modeling-data --fields name=county_id,name=age,name=year_built 319ac125-eefd-4918-9107-2281435a1b68 > campaign1.csv
+  842  fdy-data campaign modeling-data --fields name=census_block_group,name=age,name=year_built 319ac125-eefd-4918-9107-2281435a1b68 > campaign2.csv
+  843  fields
+  844  fdy-data fields
+  845  fdy-data fields-help
+  846  fdy-data --help
+  847  brew install postgis
+  848  brew install postgres --with-python 
+  849  brew link postgresql
+  850  apt-get install -y python-scipy
+  851  install -y python-scipy
+  852  install python-scipy
+  853  import numpy
+  854  numpy.text('full')
+  855  import scipy
+  856  apt-get install -y python-scipy
+  857  cd crankshaft
+  858  CREATE LANGUAGE plpython2u
+  859  cd Desktop/Faraday/
+  860  ls
+  861  cd Faraday/
+  862  ls
+  863  mv spatialauto.R Desktop/Faraday/Spatial_Auto
+  864  mv spatialauto.R Desktop/Faraday/Spatial_Auto
+  865  mv spatialauto.R ~/Desktop/Faraday/Spatial_Auto
+  866  cd
+  867  cd Desktop/Faraday/
+  868  ls
+  869  cd Spatial_Auto/
+  870  ls
+  871  cd ..
+  872  ls
+  873  cd data-exploration/
+  874  ls
+  875  mv campaign1.csv ~/Desktop/Faraday/Spatial_Auto
+  876  mv campaign2.csv ~/Desktop/Faraday/Spatial_Auto
+  877  psql -l
+  878  postgis --version
+  879  psql BiancaGonzalez
+  880  psql -d DATABASE_NAME -f /Applications/Postgres.app/Contents/Versions/9.3/share/postgresql/contrib/postgis-2.1/postgis.sql
+  881  psql -d BiancaGonzalez -f /Applications/Postgres.app/Contents/Versions/9.3/share/postgresql/contrib/postgis-2.1/postgis.sql
+  882  ls /Applications/Postgres.app/Contents/Versions/
+  883  ls /Applications/Postgres.app/Contents/Versions/10
+  884  ls /Applications/Postgres.app/Contents/Versions/10/share
+  885  ls /Applications/Postgres.app/Contents/Versions/10/share/postgresql
+  886  ls /Applications/Postgres.app/Contents/Versions/10/share/postgresql/contrib
+  887  psql -d BiancaGonzalez -f /Applications/Postgres.app/Contents/Versions/10/share/postgresql/contrib
+  888  psql -d BiancaGonzalez -f /Applications/Postgres.app/Contents/Versions/10/share/postgresql/contrib/postgis-2.4/postgis.sql
+  889  psql BiancaGonzalez
+  890  pip \v
+  891  pip -v
+  892  pip install plpythonu
+  893  sudo brew link postgresql
+  894  psql -l
+  895  psql
+  896  create extension if not exists postgis;
+  897  psql
+  898  pip install numpy
+  899  pip install numpy
+  900  pip install scipy
+  901  brew install postgres --with-python 
+  902  brew link postgresql
+  903  brew install plpythonu
+  904  pip install plpythonu
+  905  pip install plpython
+  906  pip install plpython2u
+  907  brew install plpythonu2
+  908  brew install plpython2u
+  909  CREATE LANGUAGE plpython2u;
+  910  CREATE LANGUAGE plpython2u
+  911  pip install scipy
+  912  CREATE EXTENSION plpythonu
+  913  sudo apt-get install postgresql-contrib postgresql-plpython –
+  914  sudo pip install postgresql-contrib postgresql-plpython –
+  915  python -v
+  916  fdyi vpn connect
+  917  pwd
+  918  du
+  919  du -h.
+  920  du -h
+  921  cd
+  922  cd Desktop/
+  923  ls
+  924  ls
+  925  ls
+  926  cd Desktop
+  927  ls
+  928  ls
+  929  fdyi-data
+  930  c
+  931  cd
+  932  ls
+  933  cd Desktop/Faraday/Faraday/
+  934  ls
+  935  cd PACU
+  936  ls
+  937  cd ..
+  938  ls
+  939  cd ..
+  940  ls
+  941  cd Faraday/
+  942  ls
+  943  cd ..
+  944  ls
+  945  cd data-exploration/
+  946  ls
+  947  fdy-data audience data 6b107493-d984-4080-b311-d743b2d2bbaa > members.csv
+  948  fdy-data audience data 6b107493-d984-4080-b311-d743b2d2bbaa > members.csv
+  949  fdyi vpn connect
+  950  fdy-data audience data 6b107493-d984-4080-b311-d743b2d2bbaa > members.csv
+  951  npm install censusapi2csv -g
+  952  censusapi2csv -f B01001
+  953  censusapi2csv -f B01001 > scensuspop.csv
+  954  ls
+  955  open scensuspop.csv
+  956  censusapi2csv -f B01001 -level block group
+  957  censusapi2csv -f B01001 -l tract
+  958  censusapi2csv -f B01001 -l zip code tabulation area
+  959  censusapi2csv -f B01001 -l block group
+  960  censusapi2csv -f B01001 -l block
+  961  censusapi2csv -f B01001 -s 06
+  962  censusapi2csv -f B01001 -s 06
+  963  censusapi2csv -f B01001 -c 007
+  964  censusapi2csv -f B01001 -c 007 > censusapitest.csv
+  965  ls
+  966  open censusapitest.csv 
+  967  censusapi2csv -f B01001_001E
+  968  censusapi2csv -f B01001_001E > 2censustestapi.csv
+  969  ls
+  970  open 2censustestapi.csv 
+  971  censusapi2csv -f B11003_001E > familytype.csv
+  972  open familytype.csv 
+  973  cd
+  974  ls
+  975  cd Desktop/Faraday/
+  976  ls
+  977  cd Faraday/
+  978  ls
+  979  mkdir ponant
+  980  ls
+  981  ls
+  982  cd ..
+  983  ls
+  984  git clone git@github.com:faradayio/collateral.git
+  985  ls
+  986  cd collateral/
+  987  ls
+  988  open scripts
+  989  git pull 
+  990  git checkout census_api
+  991  ls
+  992  cd
+  993  ls
+  994  ls
+  995  cd ..
+  996  ls
+  997  cd BiancaGonzalez/
+  998  ls
+  999  cd itunes
+ 1000  ls
+ 1001  cd Itunes
+ 1002  ls
+ 1003  cd
+ 1004  ls
+ 1005  cd Desktop/Faraday/
+ 1006  ls
+ 1007  cd collateral/
+ 1008  ls
+ 1009  git push acs_decennial_census_fields.csv
+ 1010  git pull 
+ 1011  cd
+ 1012  ls
+ 1013  cd Desktop/Faraday/
+ 1014  ls
+ 1015  cd collateral/
+ 1016  git push acs_decennial_census_fields
+ 1017  git push acs_decennial_census_fields.csv
+ 1018  git clone git@github.com:faradayio/collateral.git
+ 1019  git push acs_decennial_census_fields.csv
+ 1020  git add acs_decennial_census_fields.csv
+ 1021  git add acs_decennial_census_fields.csv
+ 1022  cd 
+ 1023  ls
+ 1024  cd Desktop/Faraday/
+ 1025  ls
+ 1026  cd Faraday/
+ 1027  ls
+ 1028  mv acs_decennial_census_fields.csv Desktop/Faraday/collateral
+ 1029  mov acs_decennial_census_fields.csv Desktop/Faraday/collateral
+ 1030  cp acs_decennial_census_fields.csv Desktop/Faraday/collateral
+ 1031  cd ..
+ 1032  ls
+ 1033  cd ..
+ 1034  getwd
+ 1035  wd
+ 1036  pwd
+ 1037  cd Faraday/
+ 1038  cd Faraday/
+ 1039  ls
+ 1040  cp acs_deacs_decennial_census_fields.csv /Users/BiancaGonzalez/Desktop/Faraday/collateral
+ 1041  cp acs_decennial_census_fields.csv /Users/BiancaGonzalez/Desktop/Faraday/collateral
+ 1042  cd
+ 1043  ls
+ 1044  cd Desktop/Faraday/
+ 1045  l
+ 1046  ls
+ 1047  cd collateral/
+ 1048  ls
+ 1049  git add .
+ 1050  git commit -m "WIP Decennial Census Codes"
+ 1051  git push origin your-branch
+ 1052  git push origin git@github.com:faradayio/collateral.git
+ 1053  git push
+ 1054  git status
+ 1055  git push
+ 1056  ls ~/.ssh
+ 1057  cat id_rsa
+ 1058  cat ~/.ssh/id_rsa
+ 1059  ssh-add ~/.ssh/id_rsa
+ 1060  git push
+ 1061  git push
+ 1062  rm -rf collateral
+ 1063  git rm collateral
+ 1064  git status
+ 1065  git commit --amend
+ 1066  git push --force
+ 1067  cd
+ 1068  cd Desktop/Faraday/
+ 1069  ls
+ 1070  cd Faraday/
+ 1071  ls
+ 1072  cd ..
+ 1073  ls
+ 1074  cd collateral/
+ 1075  mv acs_census_codes.csv
+ 1076  cp acs_census_codes.csv
+ 1077  cp acs_census_codes.csv
+ 1078  pwd
+ 1079  cp acs_census_codes.csv /Users/BiancaGonzalez/Desktop/Faraday/collateral
+ 1080  cp /Users/BiancaGonzalez/Desktop/Faraday/acs_census_codes.csv /Users/BiancaGonzalez/Desktop/Faraday/collateral
+ 1081  pwd
+ 1082  ls
+ 1083  cd ..
+ 1084  ls
+ 1085  cd Faraday/
+ 1086  ls
+ 1087  cp /Users/BiancaGonzalez/Desktop/Faraday/Faraday/acs_census_codes.csv /Users/BiancaGonzalez/Desktop/Faraday/collateral
+ 1088  ls
+ 1089  cd ..
+ 1090  ls
+ 1091  cd collateral/
+ 1092  ls
+ 1093  cd ..
+ 1094  ls
+ 1095  cd Faraday/
+ 1096  ls
+ 1097  ls
+ 1098  cd ..
+ 1099  ls
+ 1100  cd collateral/
+ 1101  ls
+ 1102  rm config_ACS.csv 
+ 1103  ls
+ 1104  cd ..
+ 1105  ls
+ 1106  cd Faraday/
+ 1107  ls
+ 1108  rm acs_census_codes.csv 
+ 1109  rm acs_decennial_census_fields.csv 
+ 1110  ls
+ 1111  rm config_ACS.xlsx 
+ 1112  ls
+ 1113  rm census.html 
+ 1114  ls
+ 1115  cd Desktop/Faraday/collateral/
+ 1116  ls
+ 1117  open lookuptable_ACS_fiveyear_summary.csv 
+ 1118  ogr2ogr
+ 1119  ogr2ogr --help
+ 1120  ogrinfo --help
+ 1121  PLACESDB=$1
+ 1122  FDY_AWS_ACCESS_KEY_ID=$2
+ 1123  FDY_AWS_SECRET_ACCESS_KEY=$3
+ 1124  set -eo pipefail
+ 1125  DATE=`date +%Y_%m_%d`
+ 1126  export AWS_ACCESS_KEY_ID=$FDY_AWS_ACCESS_KEY_ID AWS_SECRET_ACCESS_KEY=$FDY_AWS_SECRET_ACCESS_KEY AWS_DEFAULT_REGION="us-east-1"
+ 1127  echo 'lets get rid of all this leftover crap from last time'
+ 1128  rm -rf intake
+ 1129  rm -f *.pg_dump
+ 1130  mkdir intake
+ 1131  cd intake/
+ 1132  ls
+ 1133  echo 'building places table schema'
+ 1134  psql $PLACESDB -f ../scripts/places_schema.sql
+ 1135  vault read -field=bare_url secret/services/postgresql/makeplaces/root
+ 1136  psql $(vault read -field=bare_url secret/services/postgresql/makeplaces/root)
+ 1137  echo 'building indexes'
+ 1138  psql $PLACESDB -c "CREATE INDEX idx_id_places_$DATE ON places using btree (id)"
+ 1139  psql $PLACESDB -c "CREATE INDEX idx_id_places_$DATE ON places USING btree (id)"
+ 1140  psql $PLACESDB -c "CREATE INDEX idx_id_places_$DATE ON places USING btree (id)"
+ 1141  git clone git@github.com:faradayio/ira.git
+ 1142  cd ira
+ 1143  bash makeplaces.sh $(vault read -field=bare_url secret/services/postgresql/makeplaces/root) $(vault read -field=access_key_id secret/services/aws/ira) $(vault read -field=secret_access_key secret/services/aws/ira)
+ 1144  psql $PLACESDB -c "CREATE INDEX idx_id_places_$DATE ON places USING btree (id)"psql $PLACESDB -c "CREATE INDEX idx_name_places_$DATE ON places USING btree (name)"
+ 1145  psql $PLACESDB -c "CREATE INDEX idx_the_geom_$DATE ON places USING gist (the_geom)"
+ 1146  psql $PLACESDB -c "CREATE INDEX idx_the_geom_webmercator_places_$DATE ON places USING gist (the_geom_webmercator)"
+ 1147  psql $PLACESDB -c "CREATE INDEX idx_the_geom_popcentroid_places_$DATE ON places USING gist (the_geom_popcentroid)"
+ 1148  psql $PLACESDB -c "CREATE INDEX idx_type_places_$DATE ON places USING btree (type)"
+ 1149  psql $PLACESDB -c "CREATE INDEX idx_container_places_$DATE ON places USING btree (container)"
+ 1150  psql $PLACESDB -c "CREATE INDEX idx_container_boost_$DATE ON places USING btree (boost)"
+ 1151  psql $PLACESDB -c "CREATE INDEX i_places_name_flat_$DATE ON places (name_flat text_pattern_ops)"
+ 1152  psql $PLACESDB -c "CREATE INDEX idx_county_geom_wm_$DATE ON places USING gist (the_geom_webmercator) WHERE type='county'"
+ 1153  psql $PLACESDB -c "CREATE INDEX idx_zcta_geom_wm_$DATE ON plapss USING gist (the_geom_webmercator) WHERE type='zcta'"
+ 1154  echo 'getting census places'
+ 1155  wget -c http://www2.census.gov/geo/tiger/TIGER2010DP1/Place_2010Census_DP1.zip
+ 1156  brew install wget --with-libressl
+ 1157  cd intake/
+ 1158  ls
+ 1159  cd ira
+ 1160  ls
+ 1161  open george-washington-surveys.jpg 
+ 1162  cd scripts/
+ 1163  ls
+ 1164  open places_norm.sql 
+ 1165  ls
+ 1166  wd
+ 1167  pwd
+ 1168  cd ..
+ 1169  pwd
+ 1170  cd ..
+ 1171  ls
+ 1172  cd ira
+ 1173  ls
+ 1174  cd ..
+ 1175  ls
+ 1176  pwd
+ 1177  cd ..
+ 1178  ls
+ 1179  cd intake/
+ 1180  ls
+ 1181  echo 'building places table schema'
+ 1182  psql $PLACESDB -f ../scripts/places_schema.sql
+ 1183  echo 'building indexes'
+ 1184  psql $PLACESDB -c "CREATE INDEX idx_id_places_$DATE ON places USING btree (id)"
+ 1185  cd ira
+ 1186  bash makeplaces.sh $(vault read -field=bare_url secret/services/postgresql/makeplaces/root) $(vault read -field=access_key_id secret/services/aws/ira) $(vault read -field=secret_access_key secret/services/aws/ira)
+ 1187  ls
+ 1188  cd makeplaces.sh 
+ 1189  open makeplaces.sh 
+ 1190  cd ..
+ 1191  ls
+ 1192  cd ..
+ 1193  ls
+ 1194  cd intake/
+ 1195  ls
+ 1196  cd ira
+ 1197  la
+ 1198  ls
+ 1199  cd ..
+ 1200  ls
+ 1201  git push 
+ 1202  cd ..
+ 1203  ls
+ 1204  cd intake/
+ 1205  cd ira
+ 1206  bash makeplaces.sh $(vault read -field=bare_url secret/services/postgresql/makeplaces/root) $(vault read -field=access_key_id secret/services/aws/ira) $(vault read -field=secret_access_key secret/services/aws/ira)
+ 1207  cd ira
+ 1208  cd intake/
+ 1209  cd ira
+ 1210  ls
+ 1211  cd ..
+ 1212  cd intake/
+ 1213  ls
+ 1214  git clone git@github.com:faradayio/ira.git
+ 1215  cd ira/
+ 1216  ls
+ 1217  bash makeplaces.sh $(vault read -field=bare_url secret/services/postgresql/makeplaces/root) $(vault read -field=access_key_id secret/services/aws/ira) $(vault read -field=secret_access_key secret/services/aws/ira)
+ 1218  cd
+ 1219  cd intake/
+ 1220  cd ira
+ 1221  ls
+ 1222  git add .
+ 1223  git commit -m "WHIP ogr2ogr geodatabase downloads" 
+ 1224  git push 
+ 1225  npm -v
+ 1226  npm install geotype -g
+ 1227  cd Desktop/
+ 1228  mkdir temp
+ 1229  wget -c https://www2.census.gov/geo/tiger/TIGER_DP/2016ACS/ACS_2016_5YR_PLACE.gdb.zip
+ 1230  wget -c https://www2.census.gov/geo/tiger/TIGER_DP/2016ACS/ACS_2016_5YR_COUNTY.gdb.zip
+ 1231  ogrinfo "ACS_2016_5YR_COUNTY.gdb.zip"
+ 1232  psql $vault
+ 1233  psql $vault
+ 1234  ogr2ogr -t_srs "EPSG:4326" -f "PostgreSQL" PG:"$PLACESDB" ACS_2016_5YR_COUNTY.gdb -overwrite -progress --config PG_USE_COPY YES -nln census_county_geom ACS_2016_5YR_COUNTY
+ 1235  gdalinfo --version
+ 1236  ogr  --version
+ 1237  ogrinfo  --version
+ 1238  ogr  --version
+ 1239  ogrinfo  --version
+ 1240  ogr2ogr -t_srs "EPSG:4326" -f "PostgreSQL" PG:"$PLACESDB" ACS_2016_5YR_COUNTY.gdb -overwrite -progress --config PG_USE_COPY YES -nln census_county_geom ACS_2016_5YR_COUNTY
+ 1241  type filegdb
+ 1242  type gdal
+ 1243  type type
+ 1244  type cd
+ 1245  type ls
+ 1246  type -P
+ 1247  type -P ls
+ 1248  which which
+ 1249  which ls
+ 1250  cd
+ 1251  type type
+ 1252  type cd
+ 1253  type ls
+ 1254  type -P ls
+ 1255  which which
+ 1256  which ls
+ 1257  locate -b gdal
+ 1258  locate -b git
+ 1259  locate --b git
+ 1260  locate -d git
+ 1261  locate -d gdal
+ 1262  locate -l gdal
+ 1263  type -P ls
+ 1264  type gdal
+ 1265  type mac
+ 1266  type FileGDB 
+ 1267  cd
+ 1268  ls
+ 1269  cd Desktop/
+ 1270  ls
+ 1271  cd ..
+ 1272  l
+ 1273  ls
+ 1274  cd
+ 1275  ls
+ 1276  cd Applications/
+ 1277  ls
+ 1278  cd Chrome\ Apps.localized/
+ 1279  ls
+ 1280  ls
+ 1281  cd Default\ 
+ 1282  ls
+ 1283  ogr2ogr -t_srs "EPSG:4326" -f "PostgreSQL" PG:"$PLACESDB" ACS_2016_5YR_COUNTY.gdb -overwrite -progress --config PG_USE_COPY YES -nln census_county_geom ACS_2016_5YR_COUNTY
+ 1284  ogr2ogr -t_srs "EPSG:4326" -f "PostgreSQL" PG:"$PLACESDB" ACS_2016_5YR_COUNTY.gdb.zip -overwrite -progress --config PG_USE_COPY YES -nln census_county_geom ACS_2016_5YR_COUNTY
+ 1285  unzip ACS_2016_5YR_COUNTY.gdb.zip
+ 1286  unzip ACS_2016_5YR_COUNTY.gdb.zip
+ 1287  cd .. 
+ 1288  ls
+ 1289  cd ..
+ 1290  ls
+ 1291  cd intake/
+ 1292  ls
+ 1293  cd ira
+ 1294  ls
+ 1295  cd ..
+ 1296  cd 
+ 1297  cd Desktop/temp/
+ 1298  ls
+ 1299  cd ..
+ 1300  ls
+ 1301  cd temp/
+ 1302  ls
+ 1303  locate ACS_2016_5YR_COUNTY.gdb.zip
+ 1304  sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist
+ 1305  locate ACS_2016_5YR_COUNTY.gdb.zip
+ 1306  ACS_2016_5YR_COUNTY.gdb.zip
+ 1307  locate
+ 1308  locate ACS_2016_5YR_COUNTY.gdb.zip
+ 1309  sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist
+ 1310  cd 
+ 1311  cd Desktop/
+ 1312  ls
+ 1313  cd temp/
+ 1314  ls
+ 1315  cd temp
+ 1316  cd ..
+ 1317  ls
+ 1318  cd temp
+ 1319  cd temp
+ 1320  ls
+ 1321  unzip ACS_2016_5YR_COUNTY.gdb.zip
+ 1322  ogr2ogr -t_srs "EPSG:4326" -f "PostgreSQL" PG:"$PLACESDB" ACS_2016_5YR_COUNTY.gdb.zip -overwrite -progress --config PG_USE_COPY YES -nln census_county_geom ACS_2016_5YR_COUNTY
+ 1323  ogr2ogr -t_srs "EPSG:4326" -f "PostgreSQL" PG:"$PLACESDB" ACS_2016_5YR_COUNTY.gdb -overwrite -progress --config PG_USE_COPY YES -nln census_county_geom ACS_2016_5YR_COUNTY
+ 1324  ogr2ogr -t_srs "EPSG:4326" -f "PostgreSQL" PG:"$DBURL" ACS_2016_5YR_COUNTY.gdb -overwrite -progress --config PG_USE_COPY YES -nln census_county_counts X00_COUNTS
+ 1325  ogr2ogr -t_srs "EPSG:4326" -f "PostgreSQL" PG:"$DBURL" ACS_2016_5YR_COUNTY.gdb -overwrite -progress --config PG_USE_COPY YES -nln census_county_counts X00_COUNTS
+ 1326  cd
+ 1327  ls
+ 1328  cd intake/
+ 1329  ls
+ 1330  cd ira
+ 1331  ls
+ 1332  git checkout -b
+ 1333  git add makeplaces.sh
+ 1334  git commit -m 'WHIP update to 2016 files'
+ 1335  git push --set-upstream origin new-makeplaces_BG
+ 1336  ls
+ 1337  git add makeplaces.sh
+ 1338  git commit -m 'WHIP_2 updates to 2016 files'
+ 1339  git push --set-upstream origin new-makeplaces_BG
+ 1340  cd ..
+ 1341  cd
+ 1342  conda install -c conda-forge osmnx
+ 1343  pip install osmnx
+ 1344  conda install -c conda-forge osmnx
+ 1345  cd ..
+ 1346  cd
+ 1347  ls
+ 1348  cd AnacondaProjects/
+ 1349  ls
+ 1350  python osmnx.py
+ 1351  python osmnx.py
+ 1352  python osmnx.py
+ 1353  ox.plot_graph(ox.graph_from_place('Modena, Italy'))
+ 1354  python osmnx.py
+ 1355  pip install osmnx
+ 1356  pip install --upgrade pip
+ 1357  python osmnx.py
+ 1358  conda install -c conda-forge rtree 
+ 1359  conda update -n base conda
+ 1360  pip list
+ 1361  import osmnx as ox
+ 1362  python import osmnx as ox 
+ 1363  python osmnx.py
+ 1364  python osmnx.py
+ 1365  pip install --upgrade  requests
+ 1366  python osmnx.py
+ 1367  pip freeze | grep requests
+ 1368  python version
+ 1369  python --v
+ 1370  py -v
+ 1371  py --v
+ 1372  python --v
+ 1373  cd
+ 1374  cd
+ 1375  ls
+ 1376  cd AnacondaProjects/
+ 1377  ls
+ 1378  conda install -c conda-forge osmnx
+ 1379  python osmnx.py
+ 1380  conda info
+ 1381  sudo pip install osmnx
+ 1382  python osmnx_test.py
+ 1383  pip list 
+ 1384  cd Desktop/
+ 1385  ls
+ 1386  cd 
+ 1387  cd home
+ 1388  cd ~
+ 1389  cd AnacondaProjects/
+ 1390  ls
+ 1391  python osmnx_test.py 
+ 1392  python osmnx_test.py 
+ 1393  python osmnx_test.py 
+ 1394  python
+ 1395  cd ~
+ 1396  ls
+ 1397  cd AnacondaProjects/
+ 1398  ls
+ 1399  python osmnx_test.py 
+ 1400  pip install gdal
+ 1401  pip show gdal
+ 1402  pip install gdal==2
+ 1403  python osmnx_test.py 
+ 1404  ssh -p2222 y1xi6H3Zk6eNloC8oGG39xkgZ@tmate.faraday.io
+ 1405  ssh -p2222 y1xi6H3Zk6eNloC8oGG39xkgZ@tmate.faraday.io
+ 1406  fdyi vpn connect
+ 1407  \d places
+ 1408  psql
+ 1409  \d places
+ 1410  fdyi vpn connect
+ 1411  cd ~
+ 1412  ls
+ 1413  cd AnacondaProjects/
+ 1414  ls
+ 1415  python osmnx_test.py 
+ 1416  conda info
+ 1417  conda config --add channels conda forge
+ 1418  conda create -n conda_A python=3.6
+ 1419  conda config -- add channels conda forge
+ 1420  conda create create --yes -c conda-forge -n conda_B python=3.6
+ 1421  python osmnx_test.py 
+ 1422  pip list
+ 1423  conda create create --yes -c conda-forge -n OSMNX python=
+ 1424  conda create --yes -c conda-forge -n OSMNX python=3.6 osmnx
+ 1425  conda create --yes -c conda-forge -n OSMNX python=3.6 osmnx
+ 1426  source activate OSMNX
+ 1427  fdyi vpn connect
+ 1428  fdyi psql production --root
+ 1429  cd ~
+ 1430  ls
+ 1431  cd AnacondaProjects/
+ 1432  ls
+ 1433  python osmnx_test.py 
+ 1434  conda create --override-channels -c conda-forge -n OSMNX python=3 osmnx
+ 1435  python osmnx_test.py 
+ 1436  conda remove --yes geopandas osmnx
+ 1437  yes
+ 1438  cd ~
+ 1439  ls
+ 1440  cd AnacondaProjects/
+ 1441  ls
+ 1442  conda remove --yes geopandas osmnx
+ 1443  pip install geopandas osmnx
+ 1444  source deactivate
+ 1445  conda env remove --yes --name GEOTEST
+ 1446  conda create --yes --name GEOTEST python=3.6
+ 1447  source activate GEOTEST
+ 1448  conda install --yes -c conda-forge --override-channels geopandas libgdal fiona numpy scipy libgfortran libgfortran
+ 1449  conda remove --yes geopandas fiona shapely
+ 1450  pip install fiona shapely geopandas
+ 1451  conda create --override-channels -c conda-forge -n OSMNX python=3 osmnx
+ 1452  cd ~
+ 1453  ls
+ 1454  cd AnacondaProjects/
+ 1455  ls
+ 1456  python osmnx_test.py 
+ 1457  conda config --add channels conda-forge
+ 1458  conda install osmnx
+ 1459  conda search osmnx --channel conda-forge
+ 1460  python osmnx_test.py 
+ 1461  pip lis
+ 1462  pip list
+ 1463  conda create --yes --name GEOTEST python=3.6
+ 1464  source activate GEOTEST
+ 1465  conda install --yes -c conda-forge --override-channels geopandas libgdal osmnx
+ 1466  source deactivate
+ 1467  conda env remove --yes --name GEOTEST
+ 1468  conda create --yes --name GEOTEST python=3.6
+ 1469  source activate GEOTEST
+ 1470  conda install --yes -c conda-forge --override-channels geopandas libgdal fiona numpy scipy libgfortran libgfortran
+ 1471  conda remove --yes geopandas fiona shapely
+ 1472  pip install fiona shapely geopandas
+ 1473  source deactivate
+ 1474  conda env remove --yes --name GEOTEST
+ 1475  conda create --yes --name GEOTEST python=3.6
+ 1476  source activate GEOTEST
+ 1477  conda install --yes -c conda-forge --override-channels geopandas libgdal fiona numpy scipy libgfortran libgfortran
+ 1478  conda remove --yes geopandas fiona shapely
+ 1479  pip install fiona shapely geopandas
+ 1480  python osmnx_test.py 
+ 1481  cd ~
+ 1482  ls
+ 1483  cd AnacondaProjects/
+ 1484  ls
+ 1485  python osmnx_test.py 
+ 1486  pip install osmnx
+ 1487  pip list
+ 1488  python osmnx_test.py 
+ 1489  python osmnx_test.py 
+ 1490  cd ~
+ 1491  ls
+ 1492  cd AnacondaProjects/
+ 1493  ls
+ 1494  pip install networkx
+ 1495  pip list
+ 1496  nano .bash_profile
+ 1497  ls
+ 1498  ls
+ 1499  cd ~
+ 1500  ls
+ 1501  cd AnacondaProjects/
+ 1502  ls
+ 1503  cd
+ 1504  cd
+ 1505  ls
+ 1506  cd
+ 1507  ls
+ 1508  cd ~
+ 1509  cd AnacondaProjects/
+ 1510  python test_module.py
+ 1511  pip install pydoc
+ 1512  pip list
+ 1513  git clone git@github.com:CheeseSucker/live-doc-viewer.git
+ 1514  pip list
+ 1515  cd ~/AnacondaProjects/
+ 1516  ls
+ 1517  python pydoc.py
+ 1518  python test_module.py
+ 1519  python test_module.py
+ 1520  ls
+ 1521  python osmnx_test.py 
+ 1522  source deactivate
+ 1523  source deactivate
+ 1524  conda env remove --yes --name GEOTEST
+ 1525  conda create --yes --name GEOTEST python=3.6
+ 1526  source activate GEOTEST
+ 1527  conda install --yes -c conda-forge --override-channels geopandas libgdal fiona numpy scipy libgfortran libgfortran
+ 1528  conda remove --yes geopandas fiona shapely
+ 1529  pip install fiona shapely geopandas
+ 1530  conda list
+ 1531  pip install osmnx
+ 1532  python test_module.py
+ 1533  python test_module.py
+ 1534  python test_module.py
+ 1535  python test_module.py
+ 1536  pydoc osmnx
+ 1537  pip list
+ 1538  pip install pygraphviz
+ 1539  pip install graphviz
+ 1540  pip install pyyaml
+ 1541  pip lib
+ 1542  pip list
+ 1543  cd ~
+ 1544  ls
+ 1545  cd AnacondaProjects/
+ 1546  ls
+ 1547  python osmnx_test.py 
+ 1548  python osmnx_test.py 
+ 1549  source deactivate
+ 1550  conda env remove --yes --name GEOTEST
+ 1551  conda create --yes --name GEOTEST python=3.6
+ 1552  source activate GEOTEST
+ 1553  conda install --yes -c conda-forge --override-channels geopandas libgdal fiona numpy scipy libgfortran libgfortran
+ 1554  conda remove --yes geopandas fiona shapely
+ 1555  pip install fiona shapely geopandas
+ 1556  python -c "import geopandas as gpd; div20m = gpd.read_file('cb_2016_us_division_20m.shp');"
+ 1557  conda list
+ 1558  pip install osmnx
+ 1559  cd ~/AnacondaProjects/
+ 1560  python osmnx_test.py 
+ 1561  python osmnx_test.py 
+ 1562  python osmnx_test.py 
+ 1563  python osmnx_test.py 
+ 1564  python osmnx_test.py 
+ 1565  python osmnx_test.py 
+ 1566  python osmnx_test.py 
+ 1567  python osmnx_test.py 
+ 1568  python osmnx_test.py 
+ 1569  python osmnx_test.py 
+ 1570  python osmnx_test.py 
+ 1571  python osmnx_test.py 
+ 1572  python osmnx_test.py 
+ 1573  python osmnx_test.py 
+ 1574  python osmnx_test.py 
+ 1575  python osmnx_test.py 
+ 1576  python osmnx_test.py 
+ 1577  python osmnx_test.py 
+ 1578  python osmnx_test.py 
+ 1579  python osmnx_test.py 
+ 1580  pythhon btown.py
+ 1581  python btown.py 
+ 1582  python btown.py 
+ 1583  python osmnx_test.py 
+ 1584  python btown.py 
+ 1585  python btown.py 
+ 1586  python btown.py 
+ 1587  python btown.py 
+ 1588  python btown.py 
+ 1589  python test_module.py 
+ 1590  python test_module.py 
+ 1591  python test_module.py 
+ 1592  python small_tests.py 
+ 1593  python small_tests.py 
+ 1594  python small_tests.py 
+ 1595  python small_tests.py 
+ 1596  python small_tests.py 
+ 1597  python small_tests.py 
+ 1598  python small_tests.py 
+ 1599  python test_module.py 
+ 1600  python btown.py
+ 1601  cd ~/AnacondaProjects/
+ 1602  ld
+ 1603  ls
+ 1604  python btown.py 
+ 1605  cd ~/AnacondaProjects/
+ 1606  ls
+ 1607  python osmnx_test.py 
+ 1608  source deactivate
+ 1609  conda env remove --yes --name GEOTEST
+ 1610  conda create --yes --name GEOTEST python=3.6
+ 1611  source activate GEOTEST
+ 1612  conda install --yes -c conda-forge --override-channels geopandas libgdal fiona numpy scipy libgfortran libgfortran
+ 1613  conda remove --yes geopandas fiona shapely
+ 1614  pip install fiona shapely geopandas
+ 1615  pip install osmnx
+ 1616  pip install osmnx
+ 1617  python osmnx_test.py 
+ 1618  python test_module.py
+ 1619  python test_module.py
+ 1620  python test_module.py
+ 1621  python osmnx_test.py 
+ 1622  python osmnx_test.py 
+ 1623  python test_module.py
+ 1624  python test_module.py
+ 1625  python test_module.py
+ 1626  python test_module.py
+ 1627  python test_module.py
+ 1628  python test_module.py
+ 1629  python osmnx_test.py 
+ 1630  python osmnx_test.py 
+ 1631  python btown.py 
+ 1632  python btown.py 
+ 1633  python osmnx_test.py 
+ 1634  python osmnx_test.py 
+ 1635  fdyi vpn connect
+ 1636  fdyi vpn connect
+ 1637  fdyi vpn connect
+ 1638  fdyi psql production --root
+ 1639  export VAULT_ADDR=https://vault-ha.faraday.io:8200/
+ 1640  export VAULT_ADDR=https://vault-ha.faraday.io:8200/
+ 1641  fdyi psql production --root
+ 1642  vault auth -method=github token=756b74be1bf870eda65f064655863273f7b559ae
+ 1643  vault login
+ 1644  vault login
+ 1645  vault login
+ 1646  cd
+ 1647  ls
+ 1648  cd Faraday
+ 1649  cd Desktop/Faraday/Faraday/
+ 1650  ls
+ 1651  cd PACU
+ 1652  ls
+ 1653  cd PACU_branchprox/
+ 1654  ls
+ 1655  open prospects.csv
+ 1656  ls
+ 1657  cd
+ 1658  cd Desktop/
+ 1659  ls
+ 1660  cd Faraday/
+ 1661  ls
+ 1662  cd Faraday/
+ 1663  ls
+ 1664  cd PACU
+ 1665  ls
+ 1666  mkdir PACU_branchprox
+ 1667  ls
+ 1668  cd PACU_branchprox/
+ 1669  ls
+ 1670  fdyi psql production --root -f branch.sql > mhvcu_joyplot.csv
+ 1671  fdyi psql production --root -f branch.sql > mhvcu_joyplot.csv
+ 1672  fdy-data audience data 89c340e9-047c-46f8-b5a2-b75e8fb0124c  > prospects.csv
+ 1673  fdy-data fields-help
+ 1674  fdy-data --help
+ 1675  fdy-data campaign data $89c340e9-047c-46f8-b5a2-b75e8fb0124c --fields "name=latitude,name=longitude" > prospects_latlong.csv
+ 1676  fdy-data audience data 89c340e9-047c-46f8-b5a2-b75e8fb0124c --fields "name=latitude,name=longitude" > prospects_latlong.csv
+ 1677  fdy-data audience data d5e6527f-66b9-4c28-9108-d103ecf22595 --fields "name=latitude,name=longitude" > members_latlong.csv
+ 1678  fdy-data audience data 42bc0f60-d6e6-4c21-906a-d3cf9cda9d01 --fields "name=latitude,name=longitude" > members_latlong.csv
+ 1679  fdy-data audience data 42bc0f60-d6e6-4c21-906a-d3cf9cda9d01 --fields "name=latitude,name=longitude" > txmembers_latlong.csv
+ 1680  fdy-data audience data 58c25720-c2d4-42e9-87d6-308d98abacb3 --fields "name=latitude,name=longitude" > camembers_latlong.csv
+ 1681  cd Desktop/Faraday/Faraday/
+ 1682  ls
+ 1683  cd PACU
+ 1684  ls
+ 1685  cd PACU_branc
+ 1686  cd PACU_branchprox/
+ 1687  ls
+ 1688  open prospects_latlong.csv 
+ 1689  fdyi vpn connect
+ 1690  vault login
+ 1691  vault auth -method=github token=756b74be1bf870eda65f064655863273f7b559ae  
+ 1692  vault login -method=github token=756b74be1bf870eda65f064655863273f7b559ae  
+ 1693  unset VAULT_TOKEN; fdyi login
+ 1694  unset VAULT_TOKEN;
+ 1695  fdyi login
+ 1696  unset VAULT_TOKEN;
+ 1697  fdyi login
+ 1698  vault login
+ 1699  echo $VAULT_TOKEN
+ 1700  fdyi ecr login
+ 1701  vault auth -method=github token=5be9a8154fe2bf1f5c533b0d1f845a465607efe0
+ 1702  fdyi vpn connect 
+ 1703  fdyi 
+ 1704  fdy-data 73ab70c4-c0a7-480a-a856-af60727b4644 fields 73ab70c4-c0a7-480a-a856-af60727b4644
+ 1705  fdy-data premieramerica fields 73ab70c4-c0a7-480a-a856-af60727b4644
+ 1706  fdy-data premieramericacreditunion fields 73ab70c4-c0a7-480a-a856-af60727b4644
+ 1707  fdy-data pacu fields 73ab70c4-c0a7-480a-a856-af60727b4644
+ 1708  fdy-data campaign data `fdy-data campaign data $CAMPAIGN_ID` `--``fields default`
+ 1709  fdy-data campaign data 73ab70c4-c0a7-480a-a856-af60727b4644 --fields default
+ 1710  cd Desktop/Fara
+ 1711  cd Desktop/Faraday/
+ 1712  ls
+ 1713  pwd
+ 1714  fdy-data -B
+ 1715  cd Desktop/Faraday/Faraday/
+ 1716  ls
+ 1717  mk dir Burrow
+ 1718  mkdir Burrow
+ 1719  s
+ 1720  ls
+ 1721  cd Burrow
+ 1722  fdy-data audience data 5a957dc4525a63798543a945 > burrow_data.csv
+ 1723  fdy-data campaign fields 5a957dc4525a63798543a945 | jq 'keys[]'
+ 1724  fdy-data audience data 5a957dc4525a63798543a94 > burrow.csv
+ 1725  fdy-data campaign data 5a957dc4525a63798543a945 > modeling-data.csv
+ 1726  fdy-data audience data 5a957dc4525a63798543a94 > burrow.csv
+ 1727  fdy-data audience data 7fe19f7c-372e-4012-b318-c3ef09853f48 > burrow.csv
+ 1728  ls
+ 1729  ls
+ 1730  psql 
+ 1731  cd ~/AnacondaProjects/
+ 1732  ls
+ 1733  python osmnx_test.py 
+ 1734  source deactivate
+ 1735  conda env remove --yes --name GEOTEST
+ 1736  conda create --yes --name GEOTEST python=3.6
+ 1737  source activate GEOTEST
+ 1738  conda install --yes -c conda-forge --override-channels geopandas libgdal fiona numpy scipy libgfortran libgfortran
+ 1739  conda remove --yes geopandas fiona shapely
+ 1740  pip install fiona shapely geopandas
+ 1741  pip install osmnx
+ 1742  python small_tests.py
+ 1743  python small_tests.py
+ 1744  import osmnx as ox
+ 1745  import networkx as nx
+ 1746  import geopandas as gpd
+ 1747  import matplotlib.pyplot as plt
+ 1748  from shapely.geometry import Point, LineString, Polygon
+ 1749  from descartes import PolygonPatch
+ 1750  ox.config(log_console=True, use_cache=True)
+ 1751  python
+ 1752  cd ~
+ 1753  ls
+ 1754  cd ~/AnacondaProjects/
+ 1755  ls
+ 1756  python osmnx_test.py
+ 1757  python osmnx_test.py
+ 1758  python osmnx_test.py
+ 1759  python
+ 1760  cd ~/AnacondaProjects/
+ 1761  python osmnx_test.py 
+ 1762  python osmnx_test.py 
+ 1763  python osmnx_test.py 
+ 1764  python osmnx_test.py 
+ 1765  python osmnx_test.py 
+ 1766  python osmnx_test.py 
+ 1767  python osmnx_test.py 
+ 1768  python osmnx_test.py 
+ 1769  python osmnx_test.py 
+ 1770  python osmnx_test.py 
+ 1771  python osmnx_test.py 
+ 1772  python osmnx_test.py 
+ 1773  python osmnx_test.py 
+ 1774  python osmnx_test.py 
+ 1775  python osmnx_test.py 
+ 1776  python osmnx_test.py 
+ 1777  python osmnx_test.py 
+ 1778  fdyi psql production --root
+ 1779  cd ~
+ 1780  cd Desktop/Faraday/Faraday/Burrow
+ 1781  ls
+ 1782  open open burrow_data.csv 
+ 1783  open burrow_data.csv
+ 1784  cd 
+ 1785  ls
+ 1786  cd Desktop/Faraday/Faraday/Burrow
+ 1787  ls
+ 1788  fdy-data audience data d4879ef9-6188-4c02-80bf-2814795e0734 > modeling-data.csv
+ 1789  fdy-data audience data d4879ef9-6188-4c02-80bf-2814795e0734 > burrow_matched.csv
+ 1790  ls
+ 1791  open burrow_matched.csv 
+ 1792  cd ~
+ 1793  ls
+ 1794  cd Desktop/Faraday/Faraday/Burrow
+ 1795  ls
+ 1796  ls
+ 1797  fdyi vpn connect
+ 1798  cd ~
+ 1799  ls
+ 1800  cd Desktop/
+ 1801  cd Faraday/Faraday/
+ 1802  ls
+ 1803  cd Burrow
+ 1804  fdyi psql production --root
+ 1805  fdyi psql production --root -f burrow.sql
+ 1806  fdyi psql production --root -f burrow.sql
+ 1807  fdyi psql production --root -f burrow.sql
+ 1808  fdyi psql production --root -f burrow.sql
+ 1809  fdyi psql production --root -f burrow.sql
+ 1810  > burrowsql.csv
+ 1811  fdyi psql production --root -f burrow.sql > burrow_data.csv
+ 1812  fdyi data 
+ 1813  fdyi data --help
+ 1814  fdy-data audience data df4060c9-27db-4198-a914-38676bea0da1 > burrow_full.csv
+ 1815  ls
+ 1816  defaults write com.apple.dock persistent-others -array-add '{ "tile-data" = { "list-type" = 1; }; "tile-type" = "recents-tile"; }'
+ 1817  Killall Dock
+ 1818  cd ~ /Anaconda
+ 1819  ls
+ 1820  cd ~
+ 1821  ls
+ 1822  AnacondaProjects/
+ 1823  cd AnacondaProjects/
+ 1824  echo "#hotspotanalysis" >> README.md
+ 1825  git init
+ 1826  git add README.md
+ 1827  git commit -m "WHIP first commit"
+ 1828  git remote add origin https://github.com/biancaglez/hotspotanalysis.git
+ 1829  git push -u origin master
+ 1830  ls
+ 1831  git remote add origin https://github/com/biancaglez/hotspotanalysis.git
+ 1832  git push -u origin master
+ 1833  git checkout
+ 1834  git add filename 
+ 1835  git add osmnx_test.py
+ 1836  git commit -m 'WHIP multiple sources'
+ 1837  git push --set-upstream origin
+ 1838  cd ..
+ 1839  cd Desktop/Faraday/chloropleth_maps/
+ 1840  ls
+ 1841  fdy-data audiencedata  d51ecb5b-18d1-4339-9212-960193577e30 > telecom.csv
+ 1842  fdy-data audiencedata d51ecb5b-18d1-4339-9212-960193577e30 > telecom.csv
+ 1843  fdy-data -- audiencedata d51ecb5b-18d1-4339-9212-960193577e30 > telecom.csv
+ 1844  fdy-data -- audiencedata d51ecb5b-18d1-4339-9212-960193577e30 > telecom.csv
+ 1845  fdy-data -- audiencedata d51ecb5b-18d1-4339-9212-960193577e30 > telecom.csv
+ 1846  fdy-data audience data d51ecb5b-18d1-4339-9212-960193577e30 > modeling-data.csv
+ 1847  fdy-data audience data f8654aba-182e-4856-9be8-18a43036ebb9 > telecom-data.csv
+ 1848  fdy-data audience data f8654aba-182e-4856-9be8-18a43036ebb9 > telecom-data2.csv
+ 1849  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd  > telecom-data2.csv
+ 1850  psql
+ 1851  fdyi psql production --root
+ 1852  cd ~
+ 1853  Desktop/Faraday/
+ 1854  ls
+ 1855  cd Desktop/Faraday/
+ 1856  ls
+ 1857  cd chloropleth_maps/
+ 1858  ls
+ 1859  open telecom-data.csv 
+ 1860  fdyi psql production --root -c "\\copy (SELECT count (*) FROM households_fpd WHERE fpd ? 'd51ecb5b-18d1-4339-9212-960193577e30' TO 'telecom_test.csv' CSV HEADER"
+ 1861  fdyi psql production --root -c "\\copy (SELECT count (*) FROM households_fpd WHERE fpd ? 'd51ecb5b-18d1-4339-9212-960193577e30'
+ 1862  fdyi psql production --root -c "\\copy (SELECT count (*) FROM households_fpd WHERE fpd ? 'd51ecb5b-18d1-4339-9212-960193577e30' TO 'telecom_test.csv' CSV HEADER
+ 1863  fdyi psql production --root -c "\\copy (SELECT count (*) FROM households_fpd WHERE fpd ? 'd51ecb5b-18d1-4339-9212-960193577e30' TO 'telecom_test.csv' CSV HEADER"
+ 1864  fdyi psql production --root -c "(SELECT count (*) FROM households_fpd WHERE fpd ? 'd51ecb5b-18d1-4339-9212-960193577e30' TO 'telecom_test.csv' CSV HEADER"
+ 1865  fdyi psql production -c "\\copy (SELECT count (*) FROM households_fpd WHERE fpd ? 'd51ecb5b-18d1-4339-9212-960193577e30' TO 'telecom_test.csv' CSV HEADER"
+ 1866  fdyi psql production -c "\\copy (SELECT count (*) FROM households_fpd WHERE fpd ? 'd51ecb5b-18d1-4339-9212-960193577e30') TO 'telecom_test.csv' CSV HEADER"
+ 1867  cd ~
+ 1868  cd Desktop/Faraday/chloropleth_maps/
+ 1869  fdyi psql production -c "\\copy (SELECT count (*) FROM households_fpd WHERE fpd ? 'd51ecb5b-18d1-4339-9212-960193577e30') TO 'telecom_data.csv' CSV HEADER"
+ 1870  ls
+ 1871  fdyi psql production -c "\\copy (SELECT count(*) FROM households_fpd WHERE fpd ? 'd51ecb5b-18d1-4339-9212-960193577e30')
+ 1872  fdyi psql production --root -c "\\copy (SELECT count(*) FROM households_fpd WHERE fpd ? 'd51ecb5b-18d1-4339-9212-960193577e30')
+ 1873  fdyi psql production --root -c "(SELECT count(*) FROM households_fpd WHERE fpd ? 'd51ecb5b-18d1-4339-9212-960193577e30')
+ 1874  fdyi psql production --root -c "\\copy (SELECT count(*) FROM households_fpd WHERE fpd ? 'd51ecb5b-18d1-4339-9212-960193577e30')
+ 1875  fdyi psql production -c "(SELECT count(*) FROM households_fpd WHERE fpd ? 'd51ecb5b-18d1-4339-9212-960193577e30')
+ 1876  fdyi psql production -c "\\copy (SELECT * FROM households_fpd WHERE fpd ? 'd51ecb5b-18d1-4339-9212-960193577e30' TO 'telecom_test.csv' CSV HEADER"
+ 1877  fdyi psql production -c "\\copy (SELECT * FROM households_fpd WHERE fpd ? 'd51ecb5b-18d1-4339-9212-960193577e30') TO 'telecom_test.csv' CSV HEADER"
+ 1878  fdyi psql production -c "\\copy (SELECT count (*) FROM households_fpd WHERE fpd ? 'd51ecb5b-18d1-4339-9212-960193577e30') TO 'telecom_test.csv' CSV HEADER"
+ 1879  fdyi psql production -c "\\copy (SELECT * FROM households_fpd WHERE  county_id = '50001' LIMIT 5) TO 'faraday_fdyi.csv' CSV HEADER"
+ 1880  ls
+ 1881  open faraday_fdyi.csv 
+ 1882  cat faraday_fdyi.csv 
+ 1883  cat telecom_test.csv
+ 1884  fdy-data audience data fdy-data audience data f8654aba-182e-4856-9be8-18a43036ebb9 > telecom-data.csv > telecom-sean.csv
+ 1885  fdy-data audience data f8654aba-182e-4856-9be8-18a43036ebb9 > telecom-data.csv > telecom-sean.csv
+ 1886  fdy-data audience data f8654aba-182e-4856-9be8-18a43036ebb9 > telecom-sean.csv
+ 1887  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd > telecom-sean.csv
+ 1888  fdy-data fields-help
+ 1889  fdy-data campaign data $CAMPAIGN_ID --fields "name=age,name=household_income"
+ 1890  e17d8aa0-957b-4d19-a5dd-f3abb21384cd
+ 1891  fdy-data campaign data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields "name=age,name=latitude"
+ 1892  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields "name=age,name= income, name = household_income, name = household_size, name = gender, name=latitude, name=longitude" > latlong_tele.csv
+ 1893  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields category=lifestyle,  "name=latitude, name=longitude" > latlong_tele.csv
+ 1894  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields category=lifestyle,  "name=latitude" > latlong_tele.csv
+ 1895  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields category=lifestyle,  name=latitude > latlong_tele.csv
+ 1896  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields category=lifestyle,  name=latitude
+ 1897  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields category=lifestyle,  "name=latitude, name=longitude"
+ 1898  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields "name=age,name=latitude"
+ 1899  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields "name=latitude, name=longitude"
+ 1900  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields category=lifestyle,name=latitude,name=longitude
+ 1901  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields category=lifestyle,name=latitude,name=longitude > latlong_tele.csv
+ 1902  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields category=lifestyle,category=demography,name=latitude,name=longitude > latlong_tele.csv
+ 1903  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields category=lifestyle,category=demography,name=latitude,name=longitude, name=geoid > latlong_tele.csv
+ 1904  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields category=lifestyle,category=demography,name=latitude,name=longitude, name=GEOID > latlong_tele.csv
+ 1905  cd ~/AnacondaProjects/
+ 1906  ls
+ 1907  git checkout
+ 1908  git add osmnx_test.py
+ 1909  git commit -m "WHIP multiple sources OSMNX"
+ 1910  git push --set-upstream origin master
+ 1911  git init 
+ 1912  git remote add origin git@github.com:biancaglez/hotspotanalysis.git
+ 1913  git remote set-url origin ssh://git@github.com:biancaglez/hotspotanalysis.git
+ 1914  git add osmnx_test.py
+ 1915  git commit -m 'WHIP multiple sources'
+ 1916  git push --set-upstream origin master
+ 1917  ssh -vvv git@github.com
+ 1918  .git/config
+ 1919  git push osmnx_test.py 
+ 1920  cd ~
+ 1921  Desktop/
+ 1922  cd Desktop/
+ 1923  ls
+ 1924  find ~/Documents -type f -ctime -0 | more
+ 1925  find ~/Desktop -type f -ctime -0
+ 1926  defaults write com.apple.dock persistent-others -array-add '{ "tile-data" = { "list-type" = 1; }; "tile-type" = "recents-tile"; }'
+ 1927  fdyi vpn connect
+ 1928  python -v
+ 1929  fdyi vpn connect
+ 1930  fdyi vpn conect
+ 1931  fdyi vpn connect
+ 1932  cd Desktop/
+ 1933  cd Faraday/
+ 1934  ls
+ 1935  cd chloropleth_maps/
+ 1936  ls
+ 1937  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields name=latitude,name=longitude, name=census_block_group,category=private > latlong_tele.csv
+ 1938  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields name=latitude,name=longitude,name=census_block_group,category=private > latlong_tele.csv
+ 1939  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields name=latitude,name=longitude,name=census_block_group,category=private > latlong_tele.csv
+ 1940  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields name=latitude,name=longitude,name=census_block_group > latlong_tele.csv
+ 1941  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields name=latitude,name=longitude > latlong_tele.csv
+ 1942  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields name=latitude,name=longitude, name=GEOID > latlong_tele.csv
+ 1943  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields name=latitude,name=longitude > latlong_tele.csv
+ 1944  fdy-data audience data e17d8aa0-957b-4d19-a5dd-f3abb21384cd --fields name=latitude,name=longitude > latlong_tele.csv
+ 1945  fdy -v
+ 1946  fdy-data --version
+ 1947  vault read -field=bare_url secret/services/postgresql/makeplaces/root
+ 1948  ls
+ 1949  curl https://chief.faraday.io
+ 1950  atom ~/.tmate.conf
+ 1951  tmate
+ 1952  cd ~
+ 1953  cd AnacondaProjects/
+ 1954  ls
+ 1955  ox.plot_graph(ox.graph_from_place('Modena, Italy'))
+ 1956  import osmnx as ox
+ 1957  import networkx as nx
+ 1958  import geopandas as gpd
+ 1959  import matplotlib.pyplot as plt
+ 1960  from shapely.geometry import Point, LineString, Polygon
+ 1961  from descartes import PolygonPatch
+ 1962  ox.config(log_console=True, use_cache=True)
+ 1963  python
+ 1964  cd ~
+ 1965  cd AnacondaProjects/
+ 1966  ls
+ 1967  python
+ 1968  fdy vpn connect
+ 1969  fdyi vpn connect
+ 1970  cd ~
+ 1971  cd AnacondaProjects/
+ 1972  LS
+ 1973  python osmnx_test.py 
+ 1974  cd ~ Desktop/
+ 1975  cd Faraday
+ 1976  ls
+ 1977  cd Desktop/
+ 1978  cd Faraday/
+ 1979  mkdir dashboards
+ 1980  ls
+ 1981  cd dashboards/
+ 1982  ls
+ 1983  fdyi vpn connect
+ 1984  cd Desktop/Faraday/
+ 1985  ls
+ 1986  cd chloropleth_maps/
+ 1987  ls
+ 1988  wd
+ 1989  cd ..
+ 1990  cd Faraday/
+ 1991  ls
+ 1992  cd  ..
+ 1993  ls
+ 1994  cd function_scripts/
+ 1995  ls
+ 1996  devtools::create("basictemplate")
+ 1997  ls
+ 1998  mkdir templates
+ 1999  ls
+ 2000  rm templates/
+ 2001  rmv templates/
+ 2002  rmdir templates
+ 2003  rm -iR templates
+ 2004  cd
+ 2005  cd ~/Desktop/Faraday/function_scripts
+ 2006  ls
+ 2007  cd templates/
+ 2008  ls
+ 2009  cd templates
+ 2010  ls
+ 2011  rmdir temaples
+ 2012  cd ..
+ 2013  rmdir templates
+ 2014  rm -R templates
+ 2015  ls
+ 2016  cd basictemplate/
+ 2017  ls
+ 2018  cd R/
+ 2019  ls
+ 2020  cd ..
+ 2021  ls
+ 2022  cd ..
+ 2023  ls
+ 2024  ls
+ 2025  open plots.pdf
+ 2026  cd 
+ 2027  cd ~/Desktop/SheFly/
+ 2028  ls
+ 2029  fdyi vpn connect
+ 2030  fdyi vpn connect
+ 2031  fdyi vpn connect
+ 2032  fdy-data audience data edc4328f-0858-470f-bd12-2619e3d748bd --fields category=lifestyle > refunded_life.csv
+ 2033  fdy-data audience data df4060c9-27db-4198-a914-38676bea0da1 -- fields "name=latitude,name=longitude" > latlong_burrow.csv
+ 2034  fdy-data audience data df4060c9-27db-4198-a914-38676bea0da1 --fields "name=latitude,name=longitude" > latlong_burrow.csv
+ 2035  fdy-data audience data df4060c9-27db-4198-a914-38676bea0da1 --fields category=private "name=latitude,name=longitude" > latlong_burrow.csv
+ 2036  fdy-data audience data df4060c9-27db-4198-a914-38676bea0da1 --fields category=private, "name=latitude,name=longitude" > latlong_burrow.csv
+ 2037  fdy-data audience data df4060c9-27db-4198-a914-38676bea0da1 --fields category=private, name=latitude,name=longitude > latlong_burrow.csv
+ 2038  fdy-data audience data df4060c9-27db-4198-a914-38676bea0da1 --fields category=private, name=latitude > latlong_burrow.csv
+ 2039  fdy-data audience data df4060c9-27db-4198-a914-38676bea0da1 --fields name=latitude, category=lifestyle > latlong_burrow.csv
+ 2040  fdy-data audience data df4060c9-27db-4198-a914-38676bea0da1 --fields category=lifestyle > latlong_burrow.csv
+ 2041  fdy-data audience data df4060c9-27db-4198-a914-38676bea0da1 --fields "name=latitude,name=longitude" > latlong_burrow.csv
+ 2042  cd ..
+ 2043  ls 
+ 2044  cd ..
+ 2045  ls
+ 2046  cd Faraday/
+ 2047  ls
+ 2048  cd ..
+ 2049  ls
+ 2050  cd data-exploration/
+ 2051  ls
+ 2052  cd ..
+ 2053  ls
+ 2054  ls
+ 2055  chloropleth_maps/
+ 2056  cd chloropleth_maps/
+ 2057  ls
+ 2058  fdy-data audience data df4060c9-27db-4198-a914-38676bea0da1 --fields "name=latitude,name=longitude" > latlong_burrow.csv
+ 2059  fdy-data audience data c2347ab7-3ccc-438c-8f3d-c79979e1be63 > internet_cable.csv
+ 2060  fdy-data audience data 19e859d6-d2a2-4c62-8135-767735bf6e34 > internet.csv
+ 2061  fdy-data audience data 97de51b9-744f-438b-a2ec-0c86a9225007 > internet_cable_phone.csv
+ 2062  fdyi vpn connect
+ 2063  fdy vpn connect
+ 2064  fdyi vpn connect
+ 2065  vault auth -method=github token= d20c599da1624f1e1c9e32901548de04f36c09c8 
+ 2066  vault auth -method=github token=d20c599da1624f1e1c9e32901548de04f36c09c8
+ 2067  fdy vpn connect 
+ 2068  fdyi vpn connect
+ 2069  fdy-data audience data 19e859d6-d2a2-4c62-8135-767735bf6e34 --fields category==lifestyle > telecom.csv
+ 2070  fdy-data audience data 19e859d6-d2a2-4c62-8135-767735bf6e34 --fields category=lifestyle > telecom.csv
+ 2071  ls
+ 2072  cd Desktop/
+ 2073  cd Fara
+ 2074  cd Faraday/
+ 2075  ls
+ 2076  cd data-exploration/
+ 2077  ls
+ 2078  cd ..
+ 2079  ls
+ 2080  cd Faraday/
+ 2081  ls
+ 2082  cd ..
+ 2083  ls
+ 2084  cd chloropleth_maps/
+ 2085  ls
+ 2086  fdy-data audience data 19e859d6-d2a2-4c62-8135-767735bf6e34 --fields category=lifestyle > telecom.csv
+ 2087  ls
+ 2088  cd ..
+ 2089  ls
+ 2090  cd chloropleth_maps/
+ 2091  ls
+ 2092  fdyi vpn connect
+ 2093  cd ~ AnacondaProjects/
+ 2094  ls
+ 2095  cd AnacondaProjects/
+ 2096  l
+ 2097  ls
+ 2098  python test_thang.py conda create --yes -c conda-forge -n OSMNX python=3.6 osmnx
+ 2099  conda create --yes -c conda-forge -n OSMNX python=3.6 osmnx
+ 2100  source activate OSMNX
+ 2101  htop
+ 2102  top
+ 2103  brew install htop
+ 2104  htop
+ 2105  htop
+ 2106  ping chief.faraday.io
+ 2107  host chief.faraday.io
+ 2108  telnet 10.0.4.73 443
+ 2109  telnet 10.0.2.60 443
+ 2110  cd Desktop/Faraday/Faraday/Burrow
+ 2111  ls
+ 2112  fdy-data audience data c7a5bb9b-197f-48ee-820c-6985db79921f > couch_type.csv
+ 2113  ls
+ 2114  fdy-data audience data 2cf2875a-7839-4070-86f6-f5dc76ac6276 > returned_couch.csv
+ 2115  cd ~
+ 2116  ls
+ 2117  cd AnacondaProjects/
+ 2118  ls
+ 2119  source deactivate
+ 2120  python osmnx_test.py 
+ 2121  atom ~/.bash_history 
+ 2122  conda create --yes --name GEOTEST python=3.6
+ 2123  source activate GEOTEST
+ 2124  conda install --yes -c conda-forge --override-channels geopandas libgdal fiona numpy scipy libgfortran libgfortran
+ 2125  conda remove --yes geopandas fiona shapely
+ 2126  pip install fiona shapely geopandas
+ 2127  pip install osmnx
+ 2128  pip install osmnx
+ 2129  python osmnx_test.py 
+ 2130  source deactivate
+ 2131  conda env remove --yes --name GEOTEST
+ 2132  conda create --yes --name GEOTEST python=3.6
+ 2133  source activate GEOTEST
+ 2134  conda install --yes -c conda-forge --override-channels geopandas libgdal fiona numpy scipy libgfortran libgfortran
+ 2135  conda remove --yes geopandas fiona shapely
+ 2136  pip install fiona shapely geopandas
+ 2137  pip install osmnx
+ 2138  python osmnx_test.py 
+ 2139  python test_thang.py 
+ 2140  python test_thang.py 
+ 2141  sudo pip install osmnx --pre
+ 2142  python test_thang.py 
+ 2143  sudo pip install sqlite
+ 2144  sudo pip install sqlite3
+ 2145  python test_thang.py 
+ 2146  brew uninstall --force python
+ 2147  brew uninstall --force python3
+ 2148  brew uninstall --force sqlite
+ 2149  xcode-select --install
+ 2150  brew uninstall --force python
+ 2151  brew uninstall --force python3
+ 2152  brew uninstall --force sqlite
+ 2153  brew uninstall --ignore-dependencies sqlite
+ 2154  xcode-select --install
+ 2155  sudo xcode-select --reset
+ 2156  brew install sqlite
+ 2157  brew install python
+ 2158  brew install python3
+ 2159  brew link python
+ 2160  brew install python --verbose
+ 2161  pip install setuptools --upgrade && pip3 install setuptools --upgrade
+ 2162  brew install python --verbose
+ 2163  brew link python
+ 2164  brew link --overwrite python
+ 2165  python test_thang.py 
+ 2166  python
+ 2167  cd Desktop/Faraday/arcadia/
+ 2168  fdy data a26e11c4-94a5-42cb-94a8-f2e1c36fe27b > arcadia_v1.csv
+ 2169  fdy-data audience data  a26e11c4-94a5-42cb-94a8-f2e1c36fe27b > arcadia_v1.csv
+ 2170  cd Desktop/Faraday/Faraday/
+ 2171  ls
+ 2172  cd ..
+ 2173  cd function_scripts/
+ 2174  ls
+ 2175  mkdir chi
+ 2176  mv chisquare_table_fn.R chi
+ 2177  ls
+ 2178  cd chi
+ 2179  ls
+ 2180  git init .
+ 2181  git dd .
+ 2182  git add .
+ 2183  git commit -a -m "chisquare_file"
+ 2184  git push
+ 2185  git push origin master
+ 2186  git push
+ 2187  git init .
+ 2188  git add .
+ 2189  git commit -a -m "chisquare_file"
+ 2190  git push /Users/BiancaGonzalez/Desktop/Faraday/function_scripts/chi/.git/
+ 2191  git push --set-upstream /Users/BiancaGonzalez/Desktop/Faraday/function_scripts/chi/.git/ master
+ 2192  git clone git@github.com:biancaglez/R_functions.git
+ 2193  git add .
+ 2194  git commit -m "chi square test"
+ 2195  git push origin biancaglez/R_functions.git
+ 2196  git push origin master
+ 2197  git push master
+ 2198  git push git@github.com:biancaglez/R_functions.git
+ 2199  git pull 
+ 2200  git push
+ 2201  git branch
+ 2202  git push master
+ 2203  git add .
+ 2204  git commit -m "chi"
+ 2205  ls
+ 2206  git add . 
+ 2207  git commit -m "chi"
+ 2208  git push
+ 2209  git push origin master
+ 2210  git push master
+ 2211  git repository
+ 2212  git add .
+ 2213  git commit -m "chi_2"
+ 2214  git push master
+ 2215  git push R_functions
+ 2216  git pull 
+ 2217  git push chi
+ 2218  git push origin chi
+ 2219  git push origin master
+ 2220  git push chi master
+ 2221  git push master
+ 2222  git status
+ 2223  git add .
+ 2224  git smart log
+ 2225  sit log
+ 2226  git log
+ 2227  git add .
+ 2228  git commit -m "hi"
+ 2229  git push
+ 2230  git remote
+ 2231  git remote add biancaglez@github.com:biancaglez/R_functions.git
+ 2232  git remote add master git@github.com:biancaglez/R_functions.git
+ 2233  git remote
+ 2234  git push master
+ 2235  git pull
+ 2236  git pull master
+ 2237  git pull chi
+ 2238  git pull master chi
+ 2239  git push master chi
+ 2240  git push master
+ 2241  git pull master
+ 2242  git pull master chi
+ 2243  git log
+ 2244  git tree
+ 2245  git mktree
+ 2246  cd ..
+ 2247  ls
+ 2248  cd chi
+ 2249  ls
+ 2250  cd ..
+ 2251  ls
+ 2252  mk dir chi2
+ 2253  mkdir chi2
+ 2254  cd chi2
+ 2255  mv chisquare_table_fn.R
+ 2256  mv chisquare_table_fn.R chi2
+ 2257  cd ..
+ 2258  ls
+ 2259  cd chi2
+ 2260  ls
+ 2261  mv chisquare_table_fn.R chi2
+ 2262  cd ..
+ 2263  mv chisquare_table_fn.R chi2
+ 2264  cp chisquare_table_fn.R chi2
+ 2265  cp chisquare_table_fn.R
+ 2266  cp chisquare_table_fn.R chi2
+ 2267  cp chi/chisquare_table_fn.R 
+ 2268  cp chi/chisquare_table_fn.R chi2
+ 2269  ls
+ 2270  cd chi2
+ 2271  ls
+ 2272  cd ..
+ 2273  rm rf chi
+ 2274  rm -rf chi
+ 2275  ls
+ 2276  git clone git@github.com:biancaglez/R_functions.git
+ 2277  ls
+ 2278  cd chi2
+ 2279  ls
+ 2280  cd R_functions
+ 2281  ls
+ 2282  cd ..
+ 2283  ls
+ 2284  cd R_functions/
+ 2285  ls
+ 2286  cp ../chi2/chisquare_table_fn.R ./
+ 2287  ls
+ 2288  git add .
+ 2289  git commit -m "chi test"
+ 2290  git push
+ 2291  git branch
+ 2292  git pull chi
+ 2293  git pull master chi
+ 2294  git remote
+ 2295  git pull origin chi
+ 2296  history
+ 2297  history > joey_help.txt
