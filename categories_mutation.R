@@ -8,12 +8,12 @@ lifestyle<-read.csv('~/Desktop/Faraday/chloropleth_maps/btcomm_lifestyle_success
 
 mutated_categories <- function(x) { 
 x <- x %>% 
-  mutate(age_cats = ifelse(age < 25, "Bucket1_under25", 
-                           ifelse(age <= 34, "Bucket2_under34",
-                                  ifelse(age <= 44, "Bucket3_under44",
-                                         ifelse(age <= 54, "Bucket4_under54",
-                                                ifelse(age <= 64, "Bucket5_under64",
-                                                       ifelse(age >= 65, "Bucket6_over65",
+  mutate(age_cats = ifelse(age < 25, "Under25_m", 
+                           ifelse(age <= 34, "Under34",
+                                  ifelse(age <= 44, "Under44",
+                                         ifelse(age <= 54, "Under54",
+                                                ifelse(age <= 64, "Under64",
+                                                       ifelse(age >= 65, "Over65",
                                          ifelse(age == "", "NA","unknown" ))))))))
 
 x <- x %>% 
@@ -101,11 +101,11 @@ x <- x %>%
       medical_health== 't' |
       membership_club== 't', 't', 'f')) 
 
-x <- x %>% 
-  mutate(pets=ifelse(
-    cat_owner== 't' |
-      dog_owner== 't' |
-      pet_any== 't', 't', 'f')) 
+#x <- x %>% 
+#  mutate(pets=ifelse(
+#    cat_owner== 't' |
+#      dog_owner== 't' |
+#      pet_any== 't', 't', 'f')) 
 
 x <- x %>% 
   mutate(apparel_interests=ifelse(
