@@ -6,7 +6,7 @@
 
 demo_plots <- function(private) { 
 #########################################################################################################################
-# this demographic vector showcases what we are usually interested in   
+# this demographic vector shows what we are usually interested in   
 demo_vec<- c("gender","household_income","favm","number_of_children",
              "marital_status","education","beds","number_of_rooms")  
 
@@ -32,16 +32,16 @@ for(i in 1:length(demo_vec)){
   #rename assignements
   temp_df2<-listy[[i]]
   temp_names<-demo_vec[i]
-  
   names(temp_df2)[1] <- temp_names
   
-  # plot things 
   
+  # if char provide discrete scale 
   if (is.character(temp_df2[[1]]) == TRUE) {
    
     p<-ggplot(data=temp_df2, aes_string(x= colnames(temp_df2)[1], y = colnames(temp_df2)[3])) + geom_bar(stat='identity')+xlab(colnames(temp_df2)[1])+ylab(colnames(temp_df2)[3])+ggtitle(paste(colnames(temp_df2)[1],"percentage")) + theme(axis.text.x = element_text(angle = 40, hjust = 1))+ scale_x_discrete()
     char_plots[[i]] = p
     
+  # else provide continous scale
   } else {
     p<-ggplot(data=temp_df2, aes_string(x= colnames(temp_df2)[1], y = colnames(temp_df2)[3])) + geom_bar(stat='identity')+xlab(colnames(temp_df2)[1])+ylab(colnames(temp_df2)[3])+ggtitle(paste(colnames(temp_df2)[1],"percentage")) + theme(axis.text.x = element_text(angle = 40, hjust = 1))+ scale_x_continuous(labels = scales::comma) 
     plot_list[[i]] = p
@@ -52,8 +52,7 @@ for(i in 1:length(demo_vec)){
   }
 }
 
-# okay so doenst want to assign within the forloop so whatever
-str(char_plots)
+# okay so doenst want to assign + scale_x_discrete() within the forloop 
 plot_list[[1]] # + scale_x_discrete()
 
 
