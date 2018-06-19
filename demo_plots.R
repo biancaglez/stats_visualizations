@@ -1,8 +1,5 @@
+# this function thing will help us produce basic plots for the : " Basic Customer Profiling " sections in reports
 
-# next want to make functions that take multiple arguments and can facet to create things by different incomes
-# # facet_grid(~sex) +
-
-# initialize data - will have to read the csv and define list of variables interested in (demographics) etc
 
 demo_plots <- function(private) { 
 #########################################################################################################################
@@ -13,6 +10,7 @@ demo_vec<- c("gender","household_income","favm","number_of_children",
 # select these dem_vec variables and IDs
 private<-private %>% select(demo_vec,id)
 
+# initialize lists
 na.list<-list() 
 listy<-list()
 temp_df<-data.frame()
@@ -60,5 +58,8 @@ plot_list[[1]] # + scale_x_discrete()
 hh_plot<-plot_list[[2]]
 hh_plot + scale_x_continuous(name="Household Income", limits=c(0, 200000)) + ggtitle("Household Income % Breakdown") + scale_x_continuous(labels = scales::dollar)+xlab("Household Income") + scale_y_continuous(labels = scales::percent)
 
+
+# next want to make functions that take multiple arguments and can facet to create things by different incomes
+# # facet_grid(~sex) +
 
 
