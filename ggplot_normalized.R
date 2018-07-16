@@ -28,3 +28,7 @@ for(i in 1:length(simpli1)){
     ylab(simpleCap(colnames(df)[4]))+
     ggtitle(simpleCap(sub("_","",paste(colnames(df)[2],"Percentage"))))
 }
+
+# customize certain plots - household income
+hh_plot<-plot_list[[2]]
+hh_plot + scale_x_continuous(name="Household Income", limits=c(0, 200000)) + ggtitle("Household Income % Breakdown") + scale_x_continuous(labels = scales::dollar)+xlab("Household Income") + scale_y_continuous(labels = scales::percent)

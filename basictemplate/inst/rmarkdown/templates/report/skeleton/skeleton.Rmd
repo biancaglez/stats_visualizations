@@ -1,0 +1,95 @@
+---
+title: "markdown_template"
+author: "Bianca Gonzalez"
+date: "4/17/2018"
+output: html_document
+---
+# Load Data, packages, setwd()
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+## to create and load your own template with the same code load : http://ismayc.github.io/ecots2k16/template_pkg/ 
+
+## when loading data -- always make sure you correct for empty '' strings using 
+# read.csv('csv',stringsAsFactors = FALSE, na.strings=c('', ' ','NA'))
+
+# to update the template 
+#setwd("/Users/BiancaGonzalez/Desktop/Faraday/function_scripts")
+
+##load all functions into report 
+source("/Users/BiancaGonzalez/Desktop/Faraday/function_scripts/load_all_functions.R")
+
+## Review of Functions: 
+
+#coverage fn: this function will calculate % of coverage for each variable
+# gives you coverage of the data (% of not na)
+diamond_cv<-coverage_function(diamonds)
+
+#counts_tables:
+# gives you percentages for all variables in the given data set 
+# ie 65% people have one kid 
+diamond_tbl <- counts_tables(diamonds)
+
+#point_plot: 
+#plot for points
+diamond_ptplt<- point_plot(diamonds)
+
+#mutated_categories: 
+diamond_mcat<- mutated_categories(diamond_mcat)
+
+#mutate only lifstyle
+mutated_lifestyle()
+
+#put in front of every plot for faraday colors 
+ggthemr::ggthemr(fdy, layout="minimal")
+
+```
+
+## R Markdown
+
+Lifestyle Variables Percentages: (binary)
+```{r cars}
+# coverage for customer given our platform information
+# to select lifestyle vars from each dataset - 
+
+lifestyle<-read.csv('~/Desktop/Faraday/chloropleth_maps/btcomm_lifestyle_success.csv', stringsAsFactors = FALSE, #factors to char
+                 na.strings=c('', ' ','NA'))
+# names vec
+lifestylevars<-names(lifestyle)
+
+# select df with only lifestyle vars
+only_lifestyle<-select(lifestyle, one_of(lifestylevars)) 
+
+#select names of your df -- then use these names in the 'lifestyle' vars bucket below
+
+# grab data where lifestylevars == T for at least one column. 
+lf<-apply(only_lifestyle[,lifestylevars],1,function(row) "t" %in% row)
+
+# okay now only select the rows where this is equal to true -- not cols! (person)
+lifestyle[lf,]
+
+##common issue: 
+# cool so because names isnt present, wont let me select - so has to have the same lifestylevars
+
+```
+
+## Including Plots
+
+Useful code snippets
+```{r pressure, echo=FALSE}
+
+## Show repeat entries
+dupes<-package_types[duplicated(package_types$id),]
+
+## this lets us add a column with a sinle val 
+package_type <- rep("int",nrow(int_n))
+
+## publishing to plotly 
+library(plotly)
+Sys.setenv("plotly_username"="Narine22")
+Sys.setenv("plotly_api_key"="KEqubWoxvuABOddHkfyD")
+
+##
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
