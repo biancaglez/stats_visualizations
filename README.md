@@ -1,5 +1,6 @@
 # R_functions
 # some code snippets to make stats tests and data exploration easy 
+ - osmnx_test.py : script for hotspot analysis (multiple isochrones)
  - load_all_functions.R : loads made functions into inst/folder
  - basictemplate/ : a R template that can be modified to generate a CIR 
  - correlation_lifestyle.R : correlation tests for multiple variables 
@@ -8,7 +9,7 @@
  - chisquare_table_fn.R : chisquare function for multiple vars 
  - count_tables_fn.R : % of a given variable (ie 54% of customers like dogs)
  - coverage_function.R : what is the coverage of a given variable?
- - osmnx_test.py : script for hotspot analysis (multiple isochrones)
+ 
  
  
  # Theme/layout: 
