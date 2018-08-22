@@ -2,7 +2,7 @@
 #modifications by b.gonzalez -courtesy of s.kelly
 gen_hh<-simpli %>% select(gender,household_income, order_type)
 
-
+# simple but prebaked lapply R fn doesnt allow renaming of vars
 f = function(column) {
     ggplot() +
     geom_bar(aes(x=na.omit(column), y=(..count..)/sum(..count..))) +

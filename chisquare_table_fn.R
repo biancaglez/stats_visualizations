@@ -1,23 +1,23 @@
-# used for lifestyle attributes to compare multiple audiences (ie package user vs non)
-# ie is there a relationship between internet package user and liking travel?
+# used to compare multiple users (ie package user vs non)
+# Question: is there a relationship between internet package user and liking travel?
 
-##grabbing lifestyle attribute true counts in table form and producing a chi square test 
+# Grabbing lifestyle attribute true counts in table form and producing a chi square test 
 
-##Chi-square test is a nonparametric test that is used to compare more than two variables for a randomly selected data.
-#The expected frequencies are calculated based on the conditions of null hypothesis. 
-#https://www.statisticssolutions.com/non-parametric-analysis-chi-square/ 
-# used as an investigative tool only 
+# Chi-square test is a nonparametric test that is used to compare more than two variables for a randomly selected data.
+# The expected frequencies are calculated based on the conditions of null hypothesis. 
+# https://www.statisticssolutions.com/non-parametric-analysis-chi-square/ 
 
-#to use this, this requires a column that can take package type 
+
+#to use this code:
 
 # data must have column that differentiates group type
-# and must have columns with the different lifestyle variables
+# and must have columns with the different binary variables
 
-# lv1 # lv2 # Group
+# b1     #   b2   # Group
 
-#     #     # internet_only
-#   
-#
+#  dog   #  cat   # internet_only
+#   T    #   F    # tv_package
+
 
 ################################################################
 
@@ -63,6 +63,8 @@ m<-list()
 j<-list()
 s<-list()
 names<-names(mm)
+
+# inefficient bec have to speciffy group name - need to find workaround 
 for(i in 1:length(x)){
   
   int_type<-x[x$group == "int",] # select where meets certain criterion 

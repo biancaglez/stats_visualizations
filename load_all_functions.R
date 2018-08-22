@@ -1,6 +1,6 @@
-# call this script to load all functions into any R doc
+# Call this script to load all functions/packages into any R doc
 
-# Load my functions 
+# Load all R packages from other scripts
 source("/Users/BiancaGonzalez/Desktop/Faraday/mapping_packages.R")
 
 # call the coverage function 

@@ -5,7 +5,8 @@ setwd('/Users/BiancaGonzalez/Desktop/Faraday/function_scripts/R_functions')
 
 ################################################
 
-# take data, and calculate some percent things
+# function that can later take any data and calculate the % of groups
+
 counts_tables <- function(private) { 
   
   list<-list()
@@ -13,7 +14,6 @@ counts_tables <- function(private) {
     list[[i]] <- private %>% group_by(private[,i]) %>% tally() %>% rename(count=n) %>% 
       mutate(percent = (count/sum(count)*100)) 
     
-    #improve on this and use Andy's 'scaling' method by if != 100 %, then scale
     
   }
   
@@ -29,7 +29,7 @@ counts_tables <- function(private) {
   
   
   # make tables pretty in RMD  if desired 
-  #improve and put a scroll bar in to see all desired tables (or search bar)
+
   table_list<- list()
   for(i in seq_along(list)){
     table_list[[i]]<-list[[i]] %>% head() %>% 

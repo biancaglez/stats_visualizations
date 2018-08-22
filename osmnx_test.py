@@ -1,16 +1,5 @@
-# work flow is to use the following command for installation on mac (or use docker file)
-
 # can implement this on a larger scale and find isochrones for not only one location
 # but also for multiple using the 'magia' portal
-
-# source deactivate
-# conda env remove --yes --name GEOTEST
-# conda create --yes --name GEOTEST python=3.6
-# source activate GEOTEST
-# conda install --yes -c conda-forge --override-channels geopandas libgdal fiona numpy scipy libgfortran libgfortran
-# conda remove --yes geopandas fiona shapely
-# pip install fiona shapely geopandas
-# pip install osmnx
 
 import osmnx as ox
 import networkx as nx
@@ -82,3 +71,14 @@ for polygon, fc in zip(isochrone_polys, iso_colors):
     patch = PolygonPatch(polygon, fc=fc, ec='none', alpha=0.6, zorder=-1)
     ax.add_patch(patch)
 plt.show()
+
+# work flow is to use the following command for installation on mac (or use docker file)
+# should use docker instead - next time
+# source deactivate
+# conda env remove --yes --name GEOTEST
+# conda create --yes --name GEOTEST python=3.6
+# source activate GEOTEST
+# conda install --yes -c conda-forge --override-channels geopandas libgdal fiona numpy scipy libgfortran libgfortran
+# conda remove --yes geopandas fiona shapely
+# pip install fiona shapely geopandas
+# pip install osmnx

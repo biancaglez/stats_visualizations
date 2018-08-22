@@ -1,12 +1,10 @@
-#"#49ada6", "#e2dea4"
-# remove previous effects:
-
+# clean palette
 ggthemr::ggthemr_reset()
 
-# use faraday theme colors for plots
+# use faraday company colors for plots
 fd_Palette <- c("#49ada6","#e9d362","#bc2a66","#9e72b1","#f3785f","#e283af")
 
-# you have to add a colour at the start of your palette for outlining boxes, we'll use a grey:
+# you have to add a colour at the start of your palette for outlining boxes -- grey:
 fd_Palette <- c("#555555", fd_Palette)
 
 # Define colours for your figures with define_palette

@@ -1,14 +1,12 @@
 
 mutated_lifestyle <- function(x) { 
   
-lifestyle<-read.csv('~/Desktop/Faraday/chloropleth_maps/btcomm_lifestyle_success.csv')
+lifestyle<-read.csv('~anonymous.csv')
 
 
 #################################################################################
-
-
-# easier to read, visualize, and understand when we reduce numeric data to categories
-
+# changing data to be more human readable by editing given variables...
+# easier for humans to read, visualize, and understand when we reduce binary to categories
 
 # grouping like life vars can get us information gain! (increase coverage)
 mutated_lifestyle <- function(x) { 
@@ -98,4 +96,5 @@ x <- x %>%
         online_purchases== 't', 't', NA))
 
 return(x)
+
 }

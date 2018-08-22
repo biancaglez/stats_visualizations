@@ -1,4 +1,4 @@
-lifestyle<-read.csv('~/Desktop/Faraday/chloropleth_maps/btcomm_lifestyle_success.csv')
+lifestyle<-read.csv('~anonymous.csv')
 
 
 #################################################################################

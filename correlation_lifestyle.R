@@ -4,9 +4,8 @@ setwd("/Users/BiancaGonzalez/Desktop/Faraday/Lifestyle_Reduction")
 ##load all functions
 source("/Users/BiancaGonzalez/Desktop/Faraday/function_scripts/load_all_functions.R")
 
-# these are lifestyle variables from btcomm 
-# grab your own lifestyle variables data using below audience method 
-# fdy-data audience data $AUDIENCE_ID --fields category=lifestyle > modeling-data.csv
+# lifestyle variable
+# grab your own lifestyle variables data using audience method in terminal 
 # https://paper.dropbox.com/doc/Getting-data-from-FIG-TW0OKILp5uL9Exeqat4Gk
 
 
@@ -20,20 +19,19 @@ lifestyle<-read.csv('~/Desktop/Faraday/chloropleth_maps/btcomm_lifestyle_success
 
 lifestylevars<-names(lifestyle)
 
-#grab only people that have lifestyle == t set (hack for data)
+# grab only people that have lifestyle == t set (hack for data inconsistencies)
 only_lifestyle<-select(returned, one_of(lifestylevars)) 
 
-# look at coverage of these vars - 
+# look at coverage of these vars - using my coverage fn
 coverage_function(lifestyle)
-
 
 # code to binary to look at correlations where equal to true -- or if string 
 newdf<-lapply(lifestyle,function(x){ifelse(is.na(x) | x =='',0,1)})
 
-# list to df
+# list to df - R 
 m<-as.data.frame(newdf)
 
-# matrix obj for corr - tables 
+# matrix obj for correlation tables 
 mdf<-as.matrix(m)
 mdf<-cor(mdf)
 
@@ -42,9 +40,7 @@ mdf[abs(mdf) < 0.3 | mdf ==1] <- NA
 
 # correlation buckets of lifestyle variables 
 corrplot(mdf, method = "square")
-
 mdf<-as.data.frame(mdf)
-
 
 
 #flatten df to make new human readable df from cor pairs 
@@ -63,18 +59,17 @@ for(i in 1:length(mdf)){
 }
 
 # now can compare correlation pairs 
+##########################################################################################################
 
-# combining bankcards to increase coverage 
 
-str(df$NA_character_.)
 for(i in 1:length(df)){
   colnames(df)[i] <- paste(i,"var",sep="_")
 }
-colnames(df)
-df
+
 
 df<-df %>% filter(!is.na('3_var'))
-#basically trying to omit all NAs so I can have a list of the correlation pairs
+# basically trying to omit all NAs so I can have a list of the correlation pairs
+
 df[df=="NA"] <- NA
 
 # if col1 val and col2 val are equal to each other (when offset)
