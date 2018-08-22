@@ -1,4 +1,4 @@
-# R_functions
+# Stats/Viz/R/Python
 # some code snippets to make stats tests and data exploration easy 
  - osmnx_test.py : script for hotspot analysis (multiple isochrones)
  - load_all_functions.R : loads made functions into inst/folder
